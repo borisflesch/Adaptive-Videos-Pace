@@ -5,8 +5,8 @@
         <h5>Video metadata</h5>
         <ul>
           <li>Duration: {{ mediaMetadata.duration.toFixed(2) }} secs</li>
-          <li>Adjusted video speed: {{ mediaMetadata.speed.toFixed(2) }}</li>
-          <li>Real current speaker pace: {{ mediaMetadata.currSpeakerWpm }}</li>
+          <li>Adjusted video speed: x{{ mediaMetadata.speed.toFixed(2) }}</li>
+          <li>Real current speaker pace: {{ mediaMetadata.currSpeakerWpm }} wpm</li>
           <li>Category: {{ mediaMetadata.category.capitalize() }}</li>
           <li>
             Current topics (keywords):
@@ -16,7 +16,7 @@
           </li>
         </ul>
         <h5>User's model</h5>
-        <ul>
+        <ul class="users-model">
           <li v-for="(entry, index) in userModel" :key="index">
             {{ entry }}
           </li>
@@ -221,5 +221,9 @@ export default {
 }
 .speed-control p {
   margin: 0 16px;
+}
+.users-model {
+  max-height: 400px;
+  overflow-y: scroll;
 }
 </style>
