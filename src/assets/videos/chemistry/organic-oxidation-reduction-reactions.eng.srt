@@ -1,0 +1,1440 @@
+﻿1
+00:00:00,544 --> 00:00:02,820
+- Now that we know how to
+assign oxidation states
+
+2
+00:00:02,820 --> 00:00:06,685
+to Carbon let's look at some
+organic redox reactions,
+
+3
+00:00:06,685 --> 00:00:09,740
+and remember these definition
+from general chemistry.
+
+4
+00:00:09,740 --> 00:00:14,461
+Oxidation involves an increase
+in the oxidation state
+
+5
+00:00:14,461 --> 00:00:17,796
+and reduction involves a decrease
+
+6
+00:00:17,796 --> 00:00:20,742
+or a reduction in the oxidation state.
+
+7
+00:00:20,742 --> 00:00:25,239
+You might also remember that
+loss of electrons is oxidation
+
+8
+00:00:25,239 --> 00:00:28,501
+and gain of electrons is reduction.
+
+9
+00:00:28,501 --> 00:00:33,098
+So, LEO the lion goes GER as
+a good way to remember that.
+
+10
+00:00:33,098 --> 00:00:35,466
+Let's look at this starting compound here
+
+11
+00:00:35,466 --> 00:00:37,242
+and this reaction, and let's figure out
+
+12
+00:00:37,242 --> 00:00:38,574
+whether the starting compound
+
+13
+00:00:38,575 --> 00:00:41,804
+has been oxidized, reduced, or neither.
+
+14
+00:00:41,804 --> 00:00:44,476
+If you look at these
+three carbons on the left
+
+15
+00:00:44,476 --> 00:00:47,144
+and these three carbons on the right.
+
+16
+00:00:47,145 --> 00:00:49,236
+All right, there's no
+change to those carbons
+
+17
+00:00:49,236 --> 00:00:50,419
+so there should be no change
+
+18
+00:00:50,420 --> 00:00:53,136
+in the oxidation states of those carbons
+
+19
+00:00:53,136 --> 00:00:55,342
+but when you look at
+this carbon right here,
+
+20
+00:00:55,342 --> 00:00:57,675
+the one I just marked in yellow, right,
+
+21
+00:00:57,675 --> 00:00:59,404
+on the left it's bonded to,
+
+22
+00:00:59,404 --> 00:00:59,864
+let me go ahead and draw
+
+23
+00:00:59,864 --> 00:01:03,125
+that out, Is double bonded to an oxygen,
+
+24
+00:01:03,125 --> 00:01:06,581
+and on the right it's
+bonded to a hydrogen,
+
+25
+00:01:06,581 --> 00:01:08,959
+and on the left it's bonded to a carbon.
+
+26
+00:01:08,959 --> 00:01:12,064
+But on the right here
+that same carbon, right,
+
+27
+00:01:12,064 --> 00:01:14,243
+is now bonded to an oxygen on the right.
+
+28
+00:01:14,243 --> 00:01:17,402
+So, it still double bonded it to an oxygen
+
+29
+00:01:17,402 --> 00:01:20,049
+and has a, has a bond
+to a carbon on the left,
+
+30
+00:01:20,049 --> 00:01:23,846
+but on the right now,
+it has a bond to an OH.
+
+31
+00:01:23,846 --> 00:01:27,688
+So, that carbon has likely
+changed its oxidation state
+
+32
+00:01:27,688 --> 00:01:30,661
+and we can go ahead and
+find the oxidation state
+
+33
+00:01:30,661 --> 00:01:33,190
+using what we learned in the last video.
+
+34
+00:01:33,190 --> 00:01:36,523
+So, remember you need to put
+in your bonding electrons.
+
+35
+00:01:36,523 --> 00:01:38,821
+So, let's put in our
+bonding electrons here.
+
+36
+00:01:38,821 --> 00:01:42,327
+Each bond consists of two electrons.
+
+37
+00:01:42,327 --> 00:01:45,638
+All right, so we know that when
+we're doing oxidation states
+
+38
+00:01:45,638 --> 00:01:48,772
+we need to think about
+electronegativity differences
+
+39
+00:01:48,772 --> 00:01:51,873
+and carbon is more
+electronegative than hydrogen.
+
+40
+00:01:51,873 --> 00:01:55,352
+So, we assign both of
+those electrons to carbon.
+
+41
+00:01:55,352 --> 00:01:58,153
+Oxygen is more electronegative than carbon
+
+42
+00:01:58,153 --> 00:02:00,591
+so oxygen takes all
+four of those electrons.
+
+43
+00:02:00,591 --> 00:02:02,657
+And when we get to carbon versus carbon
+
+44
+00:02:02,658 --> 00:02:04,272
+we can assume that those carbons have
+
+45
+00:02:04,272 --> 00:02:06,198
+the same electronegativies
+
+46
+00:02:06,198 --> 00:02:08,216
+and therefore for two electrons
+
+47
+00:02:08,217 --> 00:02:10,306
+we're gonna split those two electrons up.
+
+48
+00:02:10,306 --> 00:02:12,549
+We're gonna give one
+electron to one carbon
+
+49
+00:02:12,549 --> 00:02:14,871
+and the other electron
+to the other carbon.
+
+50
+00:02:14,871 --> 00:02:17,994
+So, this carbon is
+surrounded by three electrons
+
+51
+00:02:17,994 --> 00:02:19,980
+and we know carbon should have,
+
+52
+00:02:19,980 --> 00:02:21,509
+we know carbon is supposed to have
+
+53
+00:02:21,509 --> 00:02:24,135
+a number of four valence
+electrons around it.
+
+54
+00:02:24,135 --> 00:02:25,796
+So, carbon's supposed to have four.
+
+55
+00:02:25,796 --> 00:02:28,847
+In our dot structure here
+Carbon only has three.
+
+56
+00:02:28,848 --> 00:02:32,089
+Let me highlight them.
+One, two, and three.
+
+57
+00:02:32,089 --> 00:02:35,234
+So, four minus three gives us plus one
+
+58
+00:02:35,234 --> 00:02:38,008
+which is the oxidation
+state for this carbon.
+
+59
+00:02:38,008 --> 00:02:40,830
+So, this carbon right here
+has an oxidation state
+
+60
+00:02:40,830 --> 00:02:42,672
+of plus one on the left.
+
+61
+00:02:42,672 --> 00:02:44,150
+What about on the right?
+
+62
+00:02:44,150 --> 00:02:46,751
+Let's go ahead and put in
+our bonding electrons, right.
+
+63
+00:02:46,751 --> 00:02:51,455
+So, we know that each bond
+consists of two electrons.
+
+64
+00:02:51,455 --> 00:02:53,057
+Let me put those in here.
+
+65
+00:02:53,057 --> 00:02:55,911
+And again, we think
+about electronegativity.
+
+66
+00:02:55,911 --> 00:02:58,406
+This time on the right, this carbon
+
+67
+00:02:58,406 --> 00:03:01,656
+is bonded to an oxygen now so carbon loses
+
+68
+00:03:01,656 --> 00:03:03,967
+those two electrons to oxygen.
+
+69
+00:03:03,967 --> 00:03:06,151
+Right, oxygen's more electronegative.
+
+70
+00:03:06,151 --> 00:03:09,609
+Oxygen takes, this top oxygen
+takes those four electrons
+
+71
+00:03:09,609 --> 00:03:12,212
+and again, we split these two electrons.
+
+72
+00:03:12,212 --> 00:03:15,228
+So, this time carbon is
+only surrounded by one.
+
+73
+00:03:15,229 --> 00:03:17,527
+So, define carbon's oxidation state
+
+74
+00:03:17,527 --> 00:03:18,850
+we know that carbon's supposed
+
+75
+00:03:18,850 --> 00:03:20,370
+to have four valence electrons
+
+76
+00:03:20,371 --> 00:03:22,311
+and from that we subtract the number
+
+77
+00:03:22,311 --> 00:03:24,153
+of valence electrons around carbon
+
+78
+00:03:24,153 --> 00:03:26,823
+once we've accounted
+for electronegativity.
+
+79
+00:03:26,824 --> 00:03:28,846
+And that's only one electron now.
+
+80
+00:03:28,846 --> 00:03:31,030
+So, four minus one gives us
+
+81
+00:03:31,030 --> 00:03:34,093
+an oxidation state of plus three.
+
+82
+00:03:34,093 --> 00:03:36,554
+So, on the right this same carbon
+
+83
+00:03:36,555 --> 00:03:40,180
+now has an oxidation state of plus three.
+
+84
+00:03:40,180 --> 00:03:42,129
+So, what happened in this reaction?
+
+85
+00:03:42,129 --> 00:03:44,852
+Carbon went from an
+oxidation state of plus one
+
+86
+00:03:44,853 --> 00:03:47,608
+to an oxidation state of plus three.
+
+87
+00:03:47,608 --> 00:03:52,193
+An increase in the oxidation
+state is oxidation.
+
+88
+00:03:52,193 --> 00:03:55,434
+So, our starting compound
+was oxidized here.
+
+89
+00:03:55,434 --> 00:03:58,953
+So, our starting compound was oxidized.
+
+90
+00:03:58,953 --> 00:04:00,890
+In order for this to be oxidized
+
+91
+00:04:00,890 --> 00:04:03,928
+we would need some sort
+of oxidizing agent.
+
+92
+00:04:03,928 --> 00:04:06,194
+So, I'll write that down
+here really quickly.
+
+93
+00:04:06,194 --> 00:04:07,714
+We would need an oxidizing agent
+
+94
+00:04:07,714 --> 00:04:09,712
+to accomplish this reaction.
+
+95
+00:04:09,712 --> 00:04:12,209
+And it's the oxidizing agent that itself
+
+96
+00:04:12,209 --> 00:04:14,196
+is being reduced because remember,
+
+97
+00:04:14,196 --> 00:04:15,752
+whenever something is being oxidized
+
+98
+00:04:15,752 --> 00:04:18,267
+something else has to be reduced.
+
+99
+00:04:18,267 --> 00:04:20,924
+Let's think about the
+other definitions for,
+
+100
+00:04:20,925 --> 00:04:23,992
+the other definition I
+should say for oxidation.
+
+101
+00:04:23,992 --> 00:04:28,705
+We know that oxidation
+involves the loss of electrons.
+
+102
+00:04:28,705 --> 00:04:29,993
+So, let's look at that here.
+
+103
+00:04:29,993 --> 00:04:33,793
+On the left, right, carbon
+had three electrons around it,
+
+104
+00:04:33,793 --> 00:04:36,996
+and when we added a bond to oxygen,
+
+105
+00:04:36,996 --> 00:04:40,406
+right, carbon lost these
+two electrons over here.
+
+106
+00:04:40,406 --> 00:04:41,615
+It had those two electrons.
+
+107
+00:04:41,615 --> 00:04:43,172
+On the left it had those two electrons.
+
+108
+00:04:43,172 --> 00:04:45,250
+On the right it lost those two electrons
+
+109
+00:04:45,250 --> 00:04:47,025
+and now it's only surrounded by one.
+
+110
+00:04:47,025 --> 00:04:50,370
+And we see an increase
+in the oxidation state.
+
+111
+00:04:50,370 --> 00:04:53,111
+So, it's like carbon lost electrons.
+
+112
+00:04:53,111 --> 00:04:56,455
+Also there's a shortcut that you can use.
+
+113
+00:04:56,455 --> 00:04:58,693
+For this reaction, let's think about
+
+114
+00:04:58,693 --> 00:05:00,097
+what that shortcut would be.
+
+115
+00:05:00,097 --> 00:05:02,316
+Let me use, I'll use red still.
+
+116
+00:05:02,316 --> 00:05:05,614
+On the left, this carbon with
+an oxidation state of plus one
+
+117
+00:05:05,614 --> 00:05:07,388
+has two bonds to oxygen.
+
+118
+00:05:07,389 --> 00:05:08,818
+Let me go ahead and highlight them here.
+
+119
+00:05:08,818 --> 00:05:10,801
+So, here's one bond and
+here's the other bond.
+
+120
+00:05:10,802 --> 00:05:13,089
+On the right, that same carbon now
+
+121
+00:05:13,089 --> 00:05:15,065
+has three bonds to oxygen.
+
+122
+00:05:15,065 --> 00:05:17,408
+So, here's one bond, here's two bonds,
+
+123
+00:05:17,408 --> 00:05:19,150
+and then this bond over here.
+
+124
+00:05:19,150 --> 00:05:22,746
+So, we've increased in the
+number of bonds to oxygen
+
+125
+00:05:22,747 --> 00:05:25,965
+and that can tell us we have
+an oxidation really quickly
+
+126
+00:05:25,965 --> 00:05:29,017
+without going through and doing
+all these oxidation states.
+
+127
+00:05:29,017 --> 00:05:31,966
+Notice we lost a bond to hydrogen.
+
+128
+00:05:31,966 --> 00:05:34,925
+All right, so over here we
+lost this bond to hydrogen
+
+129
+00:05:34,925 --> 00:05:39,744
+and we replaced it with a bond to oxygen.
+
+130
+00:05:39,744 --> 00:05:42,005
+So, an increase in the
+number of bonds to oxygen
+
+131
+00:05:42,005 --> 00:05:45,026
+or a decrease in number
+of bonds to hydrogen
+
+132
+00:05:45,026 --> 00:05:49,409
+can tell you that your
+carbon is oxidized too.
+
+133
+00:05:49,409 --> 00:05:50,205
+Let's do another one.
+
+134
+00:05:50,205 --> 00:05:51,507
+So, our goal is to figure out
+
+135
+00:05:51,507 --> 00:05:53,245
+whether this starting compound has
+
+136
+00:05:53,245 --> 00:05:56,021
+been oxidized, reduced, or neither.
+
+137
+00:05:56,021 --> 00:05:58,784
+So, again, these three
+carbons on the left, right,
+
+138
+00:05:58,784 --> 00:06:01,082
+are the same as these
+three carbons on the right.
+
+139
+00:06:01,083 --> 00:06:02,883
+And there's no change in those carbons.
+
+140
+00:06:02,883 --> 00:06:04,566
+So, therefore we would expect no change
+
+141
+00:06:04,566 --> 00:06:05,984
+in the oxidation state.
+
+142
+00:06:05,984 --> 00:06:07,325
+The same with this carbon.
+
+143
+00:06:07,326 --> 00:06:10,043
+So, we're gonna focus in on this carbon.
+
+144
+00:06:10,043 --> 00:06:12,866
+So, on the left that
+carbon has a double bond
+
+145
+00:06:12,866 --> 00:06:14,909
+to oxygen so we draw that in there
+
+146
+00:06:14,909 --> 00:06:16,906
+an then it's bonded to
+a carbon on the left
+
+147
+00:06:16,906 --> 00:06:19,125
+and a carbon on the right.
+
+148
+00:06:19,125 --> 00:06:21,747
+And our product, that same carbon,
+
+149
+00:06:21,747 --> 00:06:24,326
+is now bonded to only one oxygen.
+
+150
+00:06:24,326 --> 00:06:25,868
+Let me go ahead and do that.
+
+151
+00:06:25,868 --> 00:06:27,784
+Only one bond I should say to oxygen
+
+152
+00:06:27,784 --> 00:06:30,197
+and it's still bonded
+to a carbon on the left
+
+153
+00:06:30,197 --> 00:06:31,881
+and still bonded to a carbon on the right,
+
+154
+00:06:31,881 --> 00:06:34,820
+and it must have a bond to
+hydrogen in here, right?
+
+155
+00:06:34,820 --> 00:06:37,526
+It's not drawn in but it's
+assumed that you know that.
+
+156
+00:06:37,526 --> 00:06:39,664
+So, let's put in that bond to hydrogen.
+
+157
+00:06:39,664 --> 00:06:41,957
+And let's find our oxidation states.
+
+158
+00:06:41,958 --> 00:06:43,479
+So, we start on the left,
+
+159
+00:06:43,479 --> 00:06:46,243
+and we draw in our bonding electrons,
+
+160
+00:06:46,243 --> 00:06:50,782
+and next we think about
+electronegativity differences.
+
+161
+00:06:50,782 --> 00:06:54,221
+So, we know that oxygen's more
+electronegative than carbon
+
+162
+00:06:54,221 --> 00:06:56,541
+so oxygen takes those four electrons.
+
+163
+00:06:56,541 --> 00:06:59,805
+Over here, right, we assume
+that the electronegativities
+
+164
+00:06:59,805 --> 00:07:01,544
+for these carbons are the same,
+
+165
+00:07:01,544 --> 00:07:03,159
+and so we split up those two electrons.
+
+166
+00:07:03,160 --> 00:07:05,063
+We give on electron to one carbon
+
+167
+00:07:05,063 --> 00:07:07,084
+and one electron to the other carbon.
+
+168
+00:07:07,084 --> 00:07:08,558
+And same over here.
+
+169
+00:07:08,558 --> 00:07:10,986
+So, the oxidation state for carbon
+
+170
+00:07:10,986 --> 00:07:12,839
+would be four valence electrons
+
+171
+00:07:12,839 --> 00:07:14,525
+minus this, in this case we have
+
+172
+00:07:14,525 --> 00:07:16,582
+two around carbon, so here's two.
+
+173
+00:07:16,582 --> 00:07:20,736
+Four minus two gives us an
+oxidation state of plus two.
+
+174
+00:07:20,736 --> 00:07:22,800
+So, on the left this carbon has
+
+175
+00:07:22,800 --> 00:07:24,881
+an oxidation state of plus two.
+
+176
+00:07:24,881 --> 00:07:26,599
+What about on the right?
+
+177
+00:07:26,599 --> 00:07:28,318
+Let's put in our bonding electrons
+
+178
+00:07:28,318 --> 00:07:30,834
+and again, once we've
+done that we think about
+
+179
+00:07:30,834 --> 00:07:33,901
+electronegativity and we can assign
+
+180
+00:07:33,901 --> 00:07:36,882
+an oxidation state to that carbon.
+
+181
+00:07:36,882 --> 00:07:39,602
+So, we know that oxygen's
+more elecrtonegative
+
+182
+00:07:39,602 --> 00:07:41,679
+so oxygen takes those two electrons.
+
+183
+00:07:41,680 --> 00:07:43,815
+Right, again, there's, we assume
+
+184
+00:07:43,815 --> 00:07:46,518
+that these carbons have
+the same electronegativity
+
+185
+00:07:46,518 --> 00:07:48,101
+so we split up those electrons.
+
+186
+00:07:48,101 --> 00:07:49,504
+We split up these electrons.
+
+187
+00:07:49,504 --> 00:07:52,001
+But now carbon is bonded to hydrogen.
+
+188
+00:07:52,001 --> 00:07:54,729
+So, carbon is a little
+more electronegative
+
+189
+00:07:54,729 --> 00:07:56,332
+than hydrogen so we just give both
+
+190
+00:07:56,332 --> 00:07:58,685
+of those electrons to carbon.
+
+191
+00:07:58,685 --> 00:08:01,233
+And now let's find our oxidation state.
+
+192
+00:08:01,233 --> 00:08:02,948
+We know carbon is supposed to have
+
+193
+00:08:02,948 --> 00:08:04,885
+four valence electrons around it
+
+194
+00:08:04,885 --> 00:08:06,606
+and in our drawing here, once we've
+
+195
+00:08:06,606 --> 00:08:08,568
+accounted for electronegativity
+
+196
+00:08:08,568 --> 00:08:12,828
+carbon is surrounded by
+one, two, three, and four.
+
+197
+00:08:12,828 --> 00:08:16,902
+So, four minus four is equal to zero.
+
+198
+00:08:16,903 --> 00:08:19,051
+And so this carbon, this carbon now
+
+199
+00:08:19,051 --> 00:08:21,803
+has an oxidation state of zero.
+
+200
+00:08:21,803 --> 00:08:23,892
+So, that carbon went
+from an oxidation state
+
+201
+00:08:23,892 --> 00:08:27,001
+of plus two to an oxidation state of zero.
+
+202
+00:08:27,001 --> 00:08:30,102
+That's a decrease in the oxidation state.
+
+203
+00:08:30,103 --> 00:08:32,727
+So, carbon was reduced.
+
+204
+00:08:32,727 --> 00:08:36,883
+So, in this reaction our
+starting compound was reduced.
+
+205
+00:08:36,884 --> 00:08:39,900
+All right, so this was, our
+starting compound was reduced
+
+206
+00:08:39,900 --> 00:08:42,988
+which means we would need
+some sort of reducing agent
+
+207
+00:08:42,989 --> 00:08:45,960
+to accomplish this reaction.
+
+208
+00:08:45,960 --> 00:08:48,444
+And it's the reducing agent
+that would be oxidized
+
+209
+00:08:48,444 --> 00:08:49,770
+because if something is reduced
+
+210
+00:08:49,770 --> 00:08:51,942
+something else has to be oxidized.
+
+211
+00:08:51,942 --> 00:08:56,329
+We can also think about our
+other definition for reduction.
+
+212
+00:08:56,329 --> 00:08:59,569
+Gain of electrons is reduction
+
+213
+00:08:59,569 --> 00:09:01,507
+and let's look at what happened here.
+
+214
+00:09:01,507 --> 00:09:03,444
+So, the electrons that were gained right,
+
+215
+00:09:03,444 --> 00:09:05,687
+were these two electrons right here
+
+216
+00:09:05,687 --> 00:09:07,566
+because on the left we had this carbon
+
+217
+00:09:07,566 --> 00:09:09,229
+with a double bond to this oxygen.
+
+218
+00:09:09,229 --> 00:09:11,946
+On the right, we have only
+now one bond to oxygen.
+
+219
+00:09:11,946 --> 00:09:14,046
+Right, so we gained these two electrons
+
+220
+00:09:14,046 --> 00:09:17,204
+because we increased the
+number of bonds to hydrogen.
+
+221
+00:09:17,204 --> 00:09:19,045
+So, our other shortcut is to look
+
+222
+00:09:19,046 --> 00:09:21,568
+at the number of bonds to oxygen.
+
+223
+00:09:21,568 --> 00:09:23,566
+Like we talked about in the last example.
+
+224
+00:09:23,566 --> 00:09:26,639
+On the left, carbon has
+a double bond to oxygen.
+
+225
+00:09:26,639 --> 00:09:28,566
+So, two bonds to oxygen.
+
+226
+00:09:28,566 --> 00:09:31,181
+On the right we have
+only one bond to oxygen.
+
+227
+00:09:31,181 --> 00:09:34,130
+So, we decreased in the
+number of bonds to oxygen
+
+228
+00:09:34,130 --> 00:09:35,929
+so that's a reduction.
+
+229
+00:09:35,929 --> 00:09:37,867
+Again, a fast way of figuring it out.
+
+230
+00:09:37,867 --> 00:09:41,135
+Or we increased an number
+of bonds to hydrogen.
+
+231
+00:09:44,164 --> 00:09:45,763
+Let's do one more of these problems.
+
+232
+00:09:45,763 --> 00:09:46,878
+So, our goal is to figure out
+
+233
+00:09:46,878 --> 00:09:48,596
+if our starting compound on the left
+
+234
+00:09:48,596 --> 00:09:51,335
+has been oxidized, reduced, or neither.
+
+235
+00:09:51,335 --> 00:09:53,297
+And this time these are the two carbons
+
+236
+00:09:53,297 --> 00:09:55,017
+that we are going to analyze.
+
+237
+00:09:55,017 --> 00:09:56,530
+Those are the two carbons
+
+238
+00:09:56,530 --> 00:09:58,389
+that have changed in this reaction.
+
+239
+00:09:58,389 --> 00:10:00,712
+So, on the left let's draw what we have.
+
+240
+00:10:00,712 --> 00:10:03,732
+We have a carbon with a
+double bond to another carbon
+
+241
+00:10:03,732 --> 00:10:06,488
+and both of those carbons are bonded to,
+
+242
+00:10:06,488 --> 00:10:09,146
+directly bonded to two more carbons.
+
+243
+00:10:09,146 --> 00:10:11,282
+On the right, those carbons now
+
+244
+00:10:11,283 --> 00:10:13,384
+only have a single bond between them
+
+245
+00:10:13,384 --> 00:10:15,220
+and this carbon on the left
+
+246
+00:10:15,220 --> 00:10:16,682
+is bonded to a hydrogen.
+
+247
+00:10:16,682 --> 00:10:19,409
+This carbon on the right is
+directly bonded to an oxygen
+
+248
+00:10:19,409 --> 00:10:21,814
+and let's put in those
+other carbons, right?
+
+249
+00:10:21,814 --> 00:10:23,507
+We have another carbon, carbon bonds.
+
+250
+00:10:23,508 --> 00:10:26,574
+I mean, let's put in those
+carbon, carbon bonds like that.
+
+251
+00:10:26,574 --> 00:10:28,324
+Let's assign our oxidation states.
+
+252
+00:10:28,325 --> 00:10:31,126
+So, we draw in our bonding electrons
+
+253
+00:10:31,126 --> 00:10:35,329
+and we think about
+electronegativity differences
+
+254
+00:10:35,329 --> 00:10:37,752
+but we're going assume once again
+
+255
+00:10:37,753 --> 00:10:41,909
+that our carbons have the same
+electronegativity on the left
+
+256
+00:10:41,909 --> 00:10:43,652
+and so when we're assigning electrons
+
+257
+00:10:43,652 --> 00:10:45,728
+let's just pick one of those carbons.
+
+258
+00:10:45,728 --> 00:10:48,472
+So, let's pick the carbon
+on the left, right?
+
+259
+00:10:48,472 --> 00:10:51,119
+We divide up those two
+electrons in that bond.
+
+260
+00:10:51,119 --> 00:10:52,869
+Give one electron to one carbon.
+
+261
+00:10:52,869 --> 00:10:54,135
+One electron to the other.
+
+262
+00:10:54,135 --> 00:10:55,412
+We do the same thing here.
+
+263
+00:10:55,412 --> 00:10:57,210
+And for the double bond
+with four electrons
+
+264
+00:10:57,210 --> 00:10:58,952
+we divide up those four electrons.
+
+265
+00:10:58,952 --> 00:11:01,693
+We give two electrons to each carbon.
+
+266
+00:11:01,693 --> 00:11:04,353
+And so carbon is supposed to
+have four valence electrons
+
+267
+00:11:04,354 --> 00:11:09,248
+and around it, this carbon
+has one, two, three, and four.
+
+268
+00:11:09,597 --> 00:11:13,232
+So, four minus four is an
+oxidation state of zero.
+
+269
+00:11:13,232 --> 00:11:16,877
+So, this carbon has an
+oxidation state of zero.
+
+270
+00:11:16,877 --> 00:11:18,911
+Same thing for the carbon on the
+
+271
+00:11:18,912 --> 00:11:20,976
+right side of the double bond, right?
+
+272
+00:11:20,976 --> 00:11:22,476
+So, the same situation.
+
+273
+00:11:22,476 --> 00:11:25,877
+So, it also has an
+oxidation state of zero.
+
+274
+00:11:25,877 --> 00:11:28,058
+What about for our product, right?
+
+275
+00:11:28,058 --> 00:11:29,891
+Let's examine those two carbons.
+
+276
+00:11:29,892 --> 00:11:31,771
+Let's put in our bonding electrons.
+
+277
+00:11:31,771 --> 00:11:34,906
+So, we draw in our bonding electrons here.
+
+278
+00:11:34,907 --> 00:11:36,315
+So, we put those in.
+
+279
+00:11:36,315 --> 00:11:38,214
+A lot more bonding electrons to draw.
+
+280
+00:11:38,214 --> 00:11:41,272
+And we think about electronegativity
+differences, right?
+
+281
+00:11:41,272 --> 00:11:42,930
+Things have changed.
+
+282
+00:11:42,930 --> 00:11:47,771
+So, now, now let's focus in
+on the carbon on the left.
+
+283
+00:11:47,771 --> 00:11:50,266
+So, the carbon on the left
+is now bonded to a hydrogen
+
+284
+00:11:50,266 --> 00:11:52,751
+and carbon is a little
+bit more electronegative.
+
+285
+00:11:52,751 --> 00:11:55,074
+So, we give both of
+those electrons to carbon
+
+286
+00:11:55,075 --> 00:11:57,475
+and then we have carbon bonded to carbon,
+
+287
+00:11:57,475 --> 00:12:00,287
+carbon bonded to carbon,
+and carbon bonded to carbon.
+
+288
+00:12:00,287 --> 00:12:01,713
+So, what's the oxidation state
+
+289
+00:12:01,713 --> 00:12:03,906
+of that carbon on the left now?
+
+290
+00:12:03,907 --> 00:12:06,113
+Carbon is supposed to have
+four valence electrons
+
+291
+00:12:06,113 --> 00:12:07,855
+and how many do have around it?
+
+292
+00:12:07,855 --> 00:12:11,631
+Let's see, one, two, three, four, five.
+
+293
+00:12:11,631 --> 00:12:13,348
+So, four minus five gives us
+
+294
+00:12:13,349 --> 00:12:16,413
+an oxidation state of minus one.
+
+295
+00:12:16,413 --> 00:12:18,652
+So, this carbon on the left now has
+
+296
+00:12:18,652 --> 00:12:20,985
+an oxidation state of minus one.
+
+297
+00:12:20,985 --> 00:12:23,191
+What about the carbon on the right?
+
+298
+00:12:23,191 --> 00:12:25,269
+Well, we have a tie here, right?
+
+299
+00:12:25,269 --> 00:12:27,290
+So, we divide up those
+electrons, a tie here,
+
+300
+00:12:27,290 --> 00:12:29,834
+but oxygen is more
+electronegative than carbon.
+
+301
+00:12:29,834 --> 00:12:32,188
+So, oxygen gets both of those electrons.
+
+302
+00:12:32,188 --> 00:12:33,847
+So, the carbon on the right should have
+
+303
+00:12:33,847 --> 00:12:37,191
+an oxidation state of for minus three.
+
+304
+00:12:37,191 --> 00:12:39,665
+Here are the three electrons around carbon
+
+305
+00:12:39,665 --> 00:12:42,031
+once we've accounted
+for electronegativity.
+
+306
+00:12:42,032 --> 00:12:46,192
+So, that's an oxidation state of plus one.
+
+307
+00:12:46,192 --> 00:12:47,975
+So, this carbon has an
+oxidation state of plus one.
+
+308
+00:12:47,975 --> 00:12:49,973
+So, overall, what happened here?
+
+309
+00:12:49,973 --> 00:12:51,142
+Well, let me use red.
+
+310
+00:12:51,143 --> 00:12:53,628
+So, the carbon on the left went from
+
+311
+00:12:53,628 --> 00:12:55,311
+an oxidation state of zero
+
+312
+00:12:55,311 --> 00:12:58,642
+to an oxidation state of minus one.
+
+313
+00:12:58,642 --> 00:13:01,708
+That is a decrease in the oxidation state.
+
+314
+00:13:01,708 --> 00:13:04,447
+So, that carbon was reduced.
+
+315
+00:13:04,447 --> 00:13:06,412
+What about the carbon on the right side
+
+316
+00:13:06,412 --> 00:13:08,324
+of the double bond that
+we started off with?
+
+317
+00:13:08,324 --> 00:13:10,692
+It started off with an
+oxidation state of zero
+
+318
+00:13:10,692 --> 00:13:13,828
+and it went to an oxidation
+state of plus one.
+
+319
+00:13:13,828 --> 00:13:16,545
+That's an increase in the oxidation state.
+
+320
+00:13:16,545 --> 00:13:18,564
+So, that carbon was oxidized.
+
+321
+00:13:18,564 --> 00:13:21,722
+What can we say about
+starting compounds overall?
+
+322
+00:13:21,722 --> 00:13:23,405
+Well, the starting compound overall
+
+323
+00:13:23,405 --> 00:13:26,947
+there's no net change in
+the oxidation states, right?
+
+324
+00:13:26,947 --> 00:13:28,525
+So, on the left for those two carbons
+
+325
+00:13:28,525 --> 00:13:29,964
+we get a total of zero.
+
+326
+00:13:29,964 --> 00:13:32,402
+On the right we had negative
+one and positive one
+
+327
+00:13:32,402 --> 00:13:33,586
+for a total of zero.
+
+328
+00:13:33,586 --> 00:13:35,049
+There's no net change.
+
+329
+00:13:35,049 --> 00:13:36,709
+So, this would be neither.
+
+330
+00:13:36,710 --> 00:13:38,673
+The starting compound was, overall,
+
+331
+00:13:38,673 --> 00:13:42,256
+it wasn't oxidized or
+reduced. It's neither.
+

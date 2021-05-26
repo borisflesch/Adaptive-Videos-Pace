@@ -1,8 +1,17 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <sidebar-menu :menu="menu" />
-    <VideoPlayer video="Welcome to Your Vue.js App" />
+    <sidebar-menu :menu="menu" @item-click="onMenuItemClick" :collapsed="true" />
+
+    <VideoPlayer v-if="currVideo" :title="currVideo.title" :video="currVideo.videoSrc" />
+    <div v-else>
+      Please choose a video from the menu!
+    </div>
+
+    <footer>
+      <p>
+        By Boris Flesch - Adaptive Applications Research Project - <a href="https://github.com/borisflesch/adaptive-videos-pace">GitHub Repository</a>
+      </p>
+    </footer>
   </div>
 </template>
 
@@ -13,88 +22,76 @@ export default {
   name: "App",
   data() {
     return {
+      currVideo: null,
       menu: [
         {
           header: true,
           title: "Course selection",
           hiddenOnCollapse: true,
         },
-        // {
-        //   href: "/",
-        //   title: "Dashboard",
-        //   icon: {
-        //     element: "font-awesome-icon",
-        //     attributes: { icon: "user" },
-        //   },
-        // },
         {
-          // href: "/",
           title: "History",
           icon: {
             element: "font-awesome-icon",
             attributes: { icon: "book" },
           },
           child: [
-            {
-              href: "/charts/sublink",
-              title: "Sub Link",
-            },
+            { title: "Christopher Columbus", videoSrc: "history/christopher-columbus" },
+            { title: "The Columbian Exchange", videoSrc: "history/the-columbian-exchange" },
+            { title: "Motivations for English colonization", videoSrc: "history/motivations-for-english-colonization" },
+            { title: "England in the Age of Exploration", videoSrc: "history/england-in-the-age-of-exploration" },
           ],
         },
         {
-          // href: "/",
           title: "Mathematics",
           icon: {
             element: "font-awesome-icon",
             attributes: { icon: "square-root-alt" },
           },
           child: [
-            {
-              href: "/charts/sublink",
-              title: "Sub Link",
-            },
+            { title: "Introduction to Polynomials", videoSrc: "algebra/polynomials-intro" },
+            { title: "Adding Polynomials", videoSrc: "algebra/adding-polynomials" },
+            { title: "Subtracting Polynomials", videoSrc: "algebra/subtracting-polynomials" },
+            { title: "The parts of polynomial expressions", videoSrc: "algebra/parts-polynomial-expressions" },
           ],
         },
         {
-          // href: "/",
           title: "Chemistry",
           icon: {
             element: "font-awesome-icon",
             attributes: { icon: "flask" },
           },
           child: [
-            {
-              href: "/charts/sublink",
-              title: "Sub Link",
-            },
+            { title: "Oxidation states of carbon", videoSrc: "chemistry/oxidation-states-of-carbon" },
+            { title: "Organic oxidation-reduction reactions", videoSrc: "chemistry/organic-oxidation-reduction-reactions" },
+            { title: "Resonance structure", videoSrc: "chemistry/resonance-structure" },
+            { title: "Formal charge on oxygen", videoSrc: "chemistry/formal-charge-on-oxygen" },
           ],
         },
         {
-          // href: "/",
           title: "Physics",
           icon: {
             element: "font-awesome-icon",
             attributes: { icon: "magnet" },
           },
           child: [
-            {
-              href: "/charts/sublink",
-              title: "Sub Link",
-            },
+            { title: "Introduction to physics", videoSrc: "physics/introduction-physics" },
+            { title: "Introduction to vectors & scalars", videoSrc: "physics/introduction-vectors-scalars" },
+            { title: "Position-time graphs", videoSrc: "physics/position-time-graphs" },
+            { title: "Average velocity and speed worked example", videoSrc: "physics/average-velocity-and-speed-worked-example" },
           ],
         },
         {
-          // href: "/",
           title: "Biology",
           icon: {
             element: "font-awesome-icon",
             attributes: { icon: "dna" },
           },
           child: [
-            {
-              href: "/charts/sublink",
-              title: "Sub Link",
-            },
+            { title: "Introduction to vitamins and minerals", videoSrc: "biology/introduction-vitamins-minerals" },
+            { title: "Introduction to pH", videoSrc: "biology/introduction-ph" },
+            { title: "Introduction to carbohydrates", videoSrc: "biology/introduction-carbohydrates" },
+            { title: "Introduction to lipids", videoSrc: "biology/introduction-lipids" },
           ],
         },
       ],
@@ -102,6 +99,13 @@ export default {
   },
   components: {
     VideoPlayer,
+  },
+  methods: {
+    onMenuItemClick(e, item) {
+      if (item.child) return
+      this.currVideo = item
+      e.preventDefault()
+    },
   },
 };
 </script>
@@ -114,5 +118,17 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  right: 0; left: 0;
+  background: #1E1E21;
+  color: #cecece;
+  font-size: 0.9em;
+  height: 49px;
+}
+footer a {
+  color: #cecece;
 }
 </style>

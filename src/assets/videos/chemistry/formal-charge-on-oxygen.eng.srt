@@ -1,0 +1,1088 @@
+﻿1
+00:00:00,685 --> 00:00:01,660
+- [Voiceover] We've already seen
+
+2
+00:00:01,660 --> 00:00:02,833
+that formal charge is equal
+
+3
+00:00:02,833 --> 00:00:04,690
+to the number of valence electrons
+
+4
+00:00:04,690 --> 00:00:06,095
+in the free atom, minus the number
+
+5
+00:00:06,095 --> 00:00:08,452
+of valence electrons in the bonded atom,
+
+6
+00:00:08,452 --> 00:00:09,589
+and another way of saying that
+
+7
+00:00:09,589 --> 00:00:11,633
+is the formal charge is equal to
+
+8
+00:00:11,633 --> 00:00:13,373
+the number of valence electrons the atom
+
+9
+00:00:13,374 --> 00:00:15,452
+is supposed to have, minus the number
+
+10
+00:00:15,452 --> 00:00:18,238
+of valence electrons the atom actually has
+
+11
+00:00:18,238 --> 00:00:20,630
+in the drawing, so let's
+assign a formal charge
+
+12
+00:00:20,630 --> 00:00:23,509
+to oxygen in this molecule.
+
+13
+00:00:23,509 --> 00:00:26,701
+Remember that each bond is made up
+
+14
+00:00:26,701 --> 00:00:28,914
+of two electrons, so this bond right here
+
+15
+00:00:28,914 --> 00:00:30,458
+is made up of two electrons.
+
+16
+00:00:30,458 --> 00:00:33,498
+This bond over here is
+made up of two electrons,
+
+17
+00:00:33,499 --> 00:00:35,380
+and our goal is to find the formal charge
+
+18
+00:00:35,380 --> 00:00:37,098
+on oxygen, so the formal charge
+
+19
+00:00:37,098 --> 00:00:39,220
+on oxygen is equal to the number
+
+20
+00:00:39,220 --> 00:00:42,134
+of valence electrons in the free atom,
+
+21
+00:00:42,134 --> 00:00:43,268
+so the number of valence electrons
+
+22
+00:00:43,268 --> 00:00:45,135
+that oxygen is supposed to have,
+
+23
+00:00:45,135 --> 00:00:46,970
+we know that's six, right, oxygen
+
+24
+00:00:46,970 --> 00:00:48,873
+is supposed to have six valence electrons,
+
+25
+00:00:48,874 --> 00:00:50,476
+minus the number of electrons
+
+26
+00:00:50,476 --> 00:00:53,958
+that oxygen actually has in our drawing.
+
+27
+00:00:53,959 --> 00:00:55,317
+Now remember when you have a bond
+
+28
+00:00:55,317 --> 00:00:57,279
+with two electrons, we give one electron
+
+29
+00:00:57,279 --> 00:00:59,276
+to one atom, and the other electron
+
+30
+00:00:59,276 --> 00:01:00,414
+to the other atom.
+
+31
+00:01:00,414 --> 00:01:01,737
+So from these two electrons,
+
+32
+00:01:01,737 --> 00:01:04,257
+oxygen gets one of those electrons.
+
+33
+00:01:04,257 --> 00:01:05,859
+All right, same thing
+for this other bond here,
+
+34
+00:01:05,859 --> 00:01:07,622
+oxygen gets one of those electrons,
+
+35
+00:01:07,623 --> 00:01:09,876
+and the other electron goes to hydrogen.
+
+36
+00:01:09,876 --> 00:01:13,579
+So now we have a total of six electrons
+
+37
+00:01:13,579 --> 00:01:15,981
+around our oxygens, so
+I'll highlight those.
+
+38
+00:01:15,981 --> 00:01:19,419
+We have one, two, three, four,
+
+39
+00:01:19,419 --> 00:01:22,018
+five, six, so there are six
+
+40
+00:01:22,019 --> 00:01:24,236
+valence electrons around the oxygen
+
+41
+00:01:24,236 --> 00:01:26,872
+in our drawing, so six minus six
+
+42
+00:01:26,872 --> 00:01:30,239
+is equal to zero, so the formal charge
+
+43
+00:01:30,239 --> 00:01:34,093
+on oxygen is equal to zero.
+
+44
+00:01:34,093 --> 00:01:36,032
+And let me go ahead and
+write down this pattern
+
+45
+00:01:36,032 --> 00:01:37,304
+that we've just seen.
+
+46
+00:01:37,305 --> 00:01:41,542
+When oxygen has two bonds,
+
+47
+00:01:41,542 --> 00:01:45,582
+and two lone pairs
+
+48
+00:01:45,582 --> 00:01:47,857
+of electrons, one oxygen has two bonds
+
+49
+00:01:47,858 --> 00:01:49,646
+and two lone pairs of electrons,
+
+50
+00:01:49,646 --> 00:01:54,208
+the formal charge is equal to zero.
+
+51
+00:01:54,208 --> 00:01:56,762
+And sometimes, the lone
+pairs are just left off
+
+52
+00:01:56,762 --> 00:01:58,562
+for convenience reasons, right,
+
+53
+00:01:58,562 --> 00:02:01,464
+so you could draw this with your oxygen,
+
+54
+00:02:01,464 --> 00:02:02,926
+and your hydrogen like that,
+
+55
+00:02:02,926 --> 00:02:04,819
+or you could even go like this,
+
+56
+00:02:04,819 --> 00:02:06,746
+and all those are just different ways
+
+57
+00:02:06,746 --> 00:02:09,103
+of representing the same molecule.
+
+58
+00:02:09,103 --> 00:02:11,878
+So leaving off lone pairs of electrons.
+
+59
+00:02:11,878 --> 00:02:13,480
+Let's look at some other examples,
+
+60
+00:02:13,480 --> 00:02:14,965
+where the formal charge on oxygen
+
+61
+00:02:14,965 --> 00:02:17,079
+is equal to zero,
+
+62
+00:02:17,079 --> 00:02:19,761
+and we'll look at the
+one on the left first,
+
+63
+00:02:19,761 --> 00:02:21,339
+so the formal charge is equal to zero
+
+64
+00:02:21,339 --> 00:02:24,323
+on this oxygen and we can see we have
+
+65
+00:02:24,323 --> 00:02:26,343
+two bonds here to oxygen, here's one
+
+66
+00:02:26,343 --> 00:02:28,281
+of the bonds to oxygen,
+and here's the other bond
+
+67
+00:02:28,282 --> 00:02:29,141
+to oxygen.
+
+68
+00:02:29,141 --> 00:02:30,417
+The lone pairs of electrons
+
+69
+00:02:30,418 --> 00:02:32,403
+have been left off this dot structure,
+
+70
+00:02:32,403 --> 00:02:34,703
+but we know, since the
+formal charge is zero,
+
+71
+00:02:34,703 --> 00:02:35,898
+we already have our two bonds here.
+
+72
+00:02:35,898 --> 00:02:38,045
+There should be two pairs of electrons
+
+73
+00:02:38,045 --> 00:02:41,131
+on that oxygen, so you
+can put them in there
+
+74
+00:02:41,132 --> 00:02:42,328
+or you could leave them off.
+
+75
+00:02:42,328 --> 00:02:44,208
+I'll go ahead and put them in.
+
+76
+00:02:44,208 --> 00:02:46,251
+So we have a total of eight electrons
+
+77
+00:02:46,251 --> 00:02:48,864
+around our oxygen, so oxygen's following
+
+78
+00:02:48,864 --> 00:02:51,209
+the octet rule here,
+so I'll highlight them,
+
+79
+00:02:51,209 --> 00:02:55,202
+two, four, six, and eight.
+
+80
+00:02:55,202 --> 00:02:56,863
+On the right, we have another example,
+
+81
+00:02:56,863 --> 00:02:59,788
+where oxygen has a formal charge of zero,
+
+82
+00:02:59,788 --> 00:03:01,646
+and this oxygen has two bonds to it
+
+83
+00:03:01,646 --> 00:03:04,606
+so here's one of the bonds,
+and here's the other bond,
+
+84
+00:03:04,606 --> 00:03:05,847
+and this oxygen would also have to have
+
+85
+00:03:05,848 --> 00:03:08,066
+two lone pairs of electrons on it,
+
+86
+00:03:08,066 --> 00:03:09,551
+and again, I didn't draw them in here.
+
+87
+00:03:09,551 --> 00:03:12,129
+Sometimes you don't draw
+them in here for convenience,
+
+88
+00:03:12,129 --> 00:03:13,766
+but I could go ahead and add them,
+
+89
+00:03:13,766 --> 00:03:16,227
+so it's easier to see that that oxygen
+
+90
+00:03:16,227 --> 00:03:18,734
+has a formal charge of zero.
+
+91
+00:03:18,734 --> 00:03:21,370
+And a total of an octet
+of electrons around it,
+
+92
+00:03:21,370 --> 00:03:22,647
+so let me highlight those,
+
+93
+00:03:22,647 --> 00:03:25,769
+two, four, six, and eight.
+
+94
+00:03:25,770 --> 00:03:27,326
+So these patterns are important,
+
+95
+00:03:27,326 --> 00:03:29,950
+and for oxygen, two
+bonds, and two lone pairs
+
+96
+00:03:29,950 --> 00:03:34,452
+of electrons give us a
+formal charge of zero.
+
+97
+00:03:34,453 --> 00:03:36,636
+Let's move on to another formal charge
+
+98
+00:03:36,636 --> 00:03:39,411
+situation for oxygen, let's
+find the formal charge
+
+99
+00:03:39,411 --> 00:03:42,835
+on oxygen here, so we start by drawing in
+
+100
+00:03:42,835 --> 00:03:44,981
+the electrons in our bonds.
+
+101
+00:03:44,981 --> 00:03:47,420
+Each bond consists of two electrons,
+
+102
+00:03:47,420 --> 00:03:48,823
+so I draw those in.
+
+103
+00:03:48,824 --> 00:03:51,576
+What is the formal charge
+on oxygen this time?
+
+104
+00:03:51,576 --> 00:03:53,525
+So the formal charge is equal to
+
+105
+00:03:53,526 --> 00:03:55,256
+the number of valence electrons oxygen
+
+106
+00:03:55,256 --> 00:03:57,926
+is supposed to have, which is six,
+
+107
+00:03:57,926 --> 00:04:00,480
+minus the number of valence electrons
+
+108
+00:04:00,480 --> 00:04:03,614
+oxygen actually has in our drawing.
+
+109
+00:04:03,615 --> 00:04:05,785
+So we divide up our electrons again,
+
+110
+00:04:05,785 --> 00:04:07,561
+so oxygen gets one from this bond,
+
+111
+00:04:07,562 --> 00:04:09,362
+and one from this bond,
+
+112
+00:04:09,362 --> 00:04:10,882
+and one from this bond,
+
+113
+00:04:10,882 --> 00:04:14,400
+so how many electrons
+are around oxygen now?
+
+114
+00:04:14,400 --> 00:04:17,918
+This would be one, two, three,
+
+115
+00:04:17,918 --> 00:04:20,077
+four, and five.
+
+116
+00:04:20,077 --> 00:04:24,918
+So six minus five is equal to plus one,
+
+117
+00:04:24,918 --> 00:04:28,482
+so it's like oxygen has
+lost an electron here.
+
+118
+00:04:28,482 --> 00:04:31,802
+So oxygen has a formal charge of plus one.
+
+119
+00:04:31,802 --> 00:04:33,718
+I could re-draw that, let me go ahead
+
+120
+00:04:33,718 --> 00:04:34,856
+and do that over here.
+
+121
+00:04:34,856 --> 00:04:36,435
+So I could re-draw that over here,
+
+122
+00:04:36,435 --> 00:04:39,870
+so we have oxygen with
+our bond to hydrogens,
+
+123
+00:04:39,870 --> 00:04:42,065
+and oxygen has a lone pair of electrons
+
+124
+00:04:42,065 --> 00:04:45,827
+on it, and this oxygen has
+a plus one formal charge.
+
+125
+00:04:45,827 --> 00:04:48,288
+And so we can come up
+with another pattern here.
+
+126
+00:04:48,288 --> 00:04:49,889
+Here oxygen has three bonds,
+
+127
+00:04:49,889 --> 00:04:52,596
+let me highlight those bonds.
+
+128
+00:04:52,596 --> 00:04:54,081
+I'll use red this time,
+
+129
+00:04:54,081 --> 00:04:56,554
+so here's one bond, two bonds,
+
+130
+00:04:56,554 --> 00:04:58,840
+and then three bonds
+and then one lone pair
+
+131
+00:04:58,841 --> 00:05:03,659
+of electrons, so the
+pattern of three bonds
+
+132
+00:05:03,659 --> 00:05:07,361
+plus one lone pair of electrons
+
+133
+00:05:07,362 --> 00:05:10,520
+for oxygen will give you a formal charge
+
+134
+00:05:10,520 --> 00:05:12,412
+of plus one, and again,
+
+135
+00:05:12,413 --> 00:05:14,038
+it's good to recognize these patterns.
+
+136
+00:05:14,038 --> 00:05:15,873
+You should be able to do the calculation,
+
+137
+00:05:15,873 --> 00:05:17,776
+and then after you do
+enough of these problems,
+
+138
+00:05:17,776 --> 00:05:19,599
+you can just look at it and figure out
+
+139
+00:05:19,599 --> 00:05:21,619
+what the formal charge is.
+
+140
+00:05:21,619 --> 00:05:22,699
+Let's look at some more examples
+
+141
+00:05:22,699 --> 00:05:24,916
+where oxygen has a formal charge
+
+142
+00:05:24,916 --> 00:05:26,820
+of plus one,
+
+143
+00:05:26,820 --> 00:05:28,956
+and the lone pairs were left off
+
+144
+00:05:28,956 --> 00:05:31,557
+of this one, again, for
+convenience reasons,
+
+145
+00:05:31,557 --> 00:05:33,380
+so we'll start with this example
+
+146
+00:05:33,380 --> 00:05:35,957
+on the left, we can see that the oxygen
+
+147
+00:05:35,957 --> 00:05:37,536
+with a plus one formal charge
+
+148
+00:05:37,536 --> 00:05:38,940
+has three bonds to it.
+
+149
+00:05:38,940 --> 00:05:41,784
+Here's one, here's two,
+and then here's three,
+
+150
+00:05:41,784 --> 00:05:43,619
+so three bonds, in order for that oxygen
+
+151
+00:05:43,619 --> 00:05:45,163
+to have a plus one formal charge,
+
+152
+00:05:45,163 --> 00:05:47,021
+it must also have one lone pair
+
+153
+00:05:47,021 --> 00:05:49,818
+of electrons on it, so you
+could just leave them off
+
+154
+00:05:49,818 --> 00:05:50,887
+and know that they're there,
+
+155
+00:05:50,887 --> 00:05:52,570
+or you could go ahead and draw them in,
+
+156
+00:05:52,570 --> 00:05:54,869
+and I'll draw them in on that oxygen.
+
+157
+00:05:54,869 --> 00:05:57,875
+Now to our other example over here
+
+158
+00:05:57,875 --> 00:05:59,175
+on the right.
+
+159
+00:05:59,175 --> 00:06:01,869
+This is the oxygen with
+a plus one formal charge,
+
+160
+00:06:01,869 --> 00:06:04,168
+so that oxygen must have three bonds
+
+161
+00:06:04,168 --> 00:06:05,189
+and one lone pair.
+
+162
+00:06:05,189 --> 00:06:06,432
+So here are the three bonds,
+
+163
+00:06:06,432 --> 00:06:09,229
+here's one, two, and three,
+
+164
+00:06:09,229 --> 00:06:11,366
+and again, I didn't draw in the lone pair
+
+165
+00:06:11,366 --> 00:06:12,712
+of electrons on the oxygen,
+
+166
+00:06:12,713 --> 00:06:14,136
+but the lone pair is there,
+
+167
+00:06:14,136 --> 00:06:17,039
+so I'll go ahead and put it in like that.
+
+168
+00:06:17,039 --> 00:06:18,199
+So recognize this pattern,
+
+169
+00:06:18,199 --> 00:06:21,020
+three bonds, plus one
+lone pair for oxygen,
+
+170
+00:06:21,020 --> 00:06:24,037
+gives us a formal charge of plus one.
+
+171
+00:06:24,038 --> 00:06:25,873
+You could have also figured out
+
+172
+00:06:25,873 --> 00:06:28,137
+how many electrons are necessary.
+
+173
+00:06:28,137 --> 00:06:30,471
+Let's use this example, by,
+
+174
+00:06:30,471 --> 00:06:31,759
+let me go ahead and re-draw it here.
+
+175
+00:06:31,759 --> 00:06:33,315
+So how else could we figure out
+
+176
+00:06:33,315 --> 00:06:36,496
+how many electrons are on that oxygen,
+
+177
+00:06:36,496 --> 00:06:39,397
+if that oxygen has a
+plus one formal charge.
+
+178
+00:06:39,398 --> 00:06:40,466
+Well you could say that, all right,
+
+179
+00:06:40,466 --> 00:06:42,103
+the calculation for formal charge
+
+180
+00:06:42,103 --> 00:06:46,352
+would be six minus x
+is what we don't know,
+
+181
+00:06:46,352 --> 00:06:48,489
+but we do know the formal
+charge is plus one,
+
+182
+00:06:48,489 --> 00:06:50,647
+so let me just put this
+in a little box over here.
+
+183
+00:06:50,647 --> 00:06:53,666
+So six minus x is equal to plus one.
+
+184
+00:06:53,666 --> 00:06:56,743
+Obviously, x would have
+to be equal to five,
+
+185
+00:06:56,743 --> 00:07:00,040
+meaning that oxygen
+would have five electrons
+
+186
+00:07:00,040 --> 00:07:02,524
+around it, let's think about how many
+
+187
+00:07:02,524 --> 00:07:05,205
+electrons we see right now around oxygens.
+
+188
+00:07:05,205 --> 00:07:08,039
+So let me draw in some electrons here
+
+189
+00:07:08,039 --> 00:07:09,604
+and I'll use red, so this bond
+
+190
+00:07:09,605 --> 00:07:11,881
+is two electrons, and then we have
+
+191
+00:07:11,881 --> 00:07:13,866
+a bunch of electrons in here,
+
+192
+00:07:13,866 --> 00:07:15,399
+so how many electrons around oxygen
+
+193
+00:07:15,399 --> 00:07:17,141
+do we have so far?
+
+194
+00:07:17,141 --> 00:07:19,706
+Well, we would have three,
+
+195
+00:07:19,706 --> 00:07:22,342
+just these three, and we need five,
+
+196
+00:07:22,342 --> 00:07:23,804
+which means we need two more,
+
+197
+00:07:23,804 --> 00:07:26,335
+which means we need a
+lone pair of electrons
+
+198
+00:07:26,335 --> 00:07:27,681
+on the oxygen.
+
+199
+00:07:27,682 --> 00:07:31,276
+So that's a little bit too complicated,
+
+200
+00:07:31,276 --> 00:07:32,430
+I think, for figuring it out,
+
+201
+00:07:32,430 --> 00:07:33,928
+but you could use that method,
+
+202
+00:07:33,928 --> 00:07:36,053
+or you could just learn
+this pattern, right,
+
+203
+00:07:36,053 --> 00:07:37,794
+and eventually, you'll
+have to have this pattern
+
+204
+00:07:37,794 --> 00:07:39,454
+down pretty well.
+
+205
+00:07:39,454 --> 00:07:41,230
+Let's look at another example
+
+206
+00:07:41,230 --> 00:07:44,168
+for assigning formal charge to oxygen.
+
+207
+00:07:44,168 --> 00:07:45,572
+So our goal is to find the formal charge
+
+208
+00:07:45,572 --> 00:07:47,894
+on oxygen in this example,
+
+209
+00:07:47,894 --> 00:07:50,436
+and we put in our electrons in this bond.
+
+210
+00:07:50,436 --> 00:07:53,037
+Each bond represents two electrons,
+
+211
+00:07:53,037 --> 00:07:55,126
+so the formal charge on oxygen,
+
+212
+00:07:55,127 --> 00:07:57,878
+is equal to the number
+of valence electrons
+
+213
+00:07:57,878 --> 00:08:00,514
+that oxygen is supposed
+to have which is six,
+
+214
+00:08:00,514 --> 00:08:02,359
+minus the number of valence electrons
+
+215
+00:08:02,359 --> 00:08:04,541
+that oxygen actually has,
+
+216
+00:08:04,541 --> 00:08:05,517
+and in this example, right,
+
+217
+00:08:05,517 --> 00:08:06,933
+we would take one of these electrons
+
+218
+00:08:06,934 --> 00:08:08,860
+from this bond, and how many electrons
+
+219
+00:08:08,860 --> 00:08:11,136
+is that total around oxygen?
+
+220
+00:08:11,136 --> 00:08:13,795
+This would be one, two, three,
+
+221
+00:08:13,795 --> 00:08:16,453
+four, five, six, seven,
+
+222
+00:08:16,453 --> 00:08:19,239
+so six minus seven
+gives us a formal charge
+
+223
+00:08:19,239 --> 00:08:21,631
+of negative one.
+
+224
+00:08:21,631 --> 00:08:24,592
+So I could re-draw that over here,
+
+225
+00:08:24,593 --> 00:08:26,635
+I could say oxygen has three lone pairs
+
+226
+00:08:26,635 --> 00:08:29,572
+of electrons, and a negative one
+
+227
+00:08:29,572 --> 00:08:32,799
+formal charge, so our pattern,
+
+228
+00:08:32,799 --> 00:08:35,631
+this time, our pattern is one bond.
+
+229
+00:08:35,631 --> 00:08:38,045
+Here's the one bond, and then three
+
+230
+00:08:38,046 --> 00:08:39,985
+lone pairs of electrons.
+
+231
+00:08:39,985 --> 00:08:41,077
+So let me write that down.
+
+232
+00:08:41,077 --> 00:08:43,457
+So the pattern is one bond,
+
+233
+00:08:43,457 --> 00:08:45,396
+when oxygen has one bond,
+
+234
+00:08:45,396 --> 00:08:50,396
+and three lone pairs of electrons
+
+235
+00:08:50,817 --> 00:08:52,942
+the formal charge is negative one,
+
+236
+00:08:52,942 --> 00:08:55,763
+just like we saw up here
+with the calculation.
+
+237
+00:08:55,763 --> 00:08:57,864
+So we could leave those electrons off
+
+238
+00:08:57,864 --> 00:08:59,060
+if you wanted to save some time,
+
+239
+00:08:59,060 --> 00:09:00,685
+we could just say, oh, this is oxygen
+
+240
+00:09:00,685 --> 00:09:02,496
+with a negative one formal charge,
+
+241
+00:09:02,496 --> 00:09:03,768
+and we should know that there must be
+
+242
+00:09:03,768 --> 00:09:06,925
+three lone pairs of
+electrons on that oxygen.
+
+243
+00:09:06,925 --> 00:09:08,387
+Let's look at one more example,
+
+244
+00:09:08,388 --> 00:09:11,883
+where formal charge is negative one.
+
+245
+00:09:11,883 --> 00:09:14,308
+So right here, this
+oxygen has a negative one
+
+246
+00:09:14,308 --> 00:09:15,968
+formal charge, and we can see
+
+247
+00:09:15,969 --> 00:09:17,803
+it already has one bond to it.
+
+248
+00:09:17,803 --> 00:09:18,929
+And so the pattern, of course,
+
+249
+00:09:18,929 --> 00:09:21,785
+is one bond plus three
+lone pairs of electrons.
+
+250
+00:09:21,785 --> 00:09:22,968
+So we already have the one bond.
+
+251
+00:09:22,969 --> 00:09:24,576
+In order for that oxygen to have
+
+252
+00:09:24,576 --> 00:09:26,246
+a negative one formal charge,
+
+253
+00:09:26,246 --> 00:09:28,347
+we need three lone pairs of electrons.
+
+254
+00:09:28,347 --> 00:09:30,749
+So we could re-draw this,
+
+255
+00:09:30,749 --> 00:09:34,430
+so that is one way to represent that ion,
+
+256
+00:09:34,430 --> 00:09:36,426
+and we could also represent it like this,
+
+257
+00:09:36,427 --> 00:09:37,889
+with putting three lone pairs
+
+258
+00:09:37,889 --> 00:09:39,770
+of electrons on that oxygen with
+
+259
+00:09:39,770 --> 00:09:42,103
+a negative one formal charge.
+
+260
+00:09:42,104 --> 00:09:45,121
+So again, become familiar
+with these patterns.
+

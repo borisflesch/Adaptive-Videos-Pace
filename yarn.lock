@@ -6941,6 +6941,11 @@ require-main-filename@^2.0.0:
   resolved "https://registry.yarnpkg.com/require-main-filename/-/require-main-filename-2.0.0.tgz#d0b329ecc7cc0f61649f62215be69af54aa8989b"
   integrity sha512-NKN5kMDylKuldxYLSUfrbo5Tuzh4hd+2E8NPPX02mZtn1VuREQToYe/ZdlJy+J3uCpfaiGF05e7B8W0iXbQHmg==
 
+require-text@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/require-text/-/require-text-0.0.1.tgz#cde7a3e443b71c14e1ec0d5cefcfcd418dffd66e"
+  integrity sha1-zeej5EO3HBTh7A1c78/NQY3/1m4=
+
 requires-port@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"

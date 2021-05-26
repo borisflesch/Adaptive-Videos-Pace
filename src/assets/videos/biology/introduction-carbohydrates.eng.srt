@@ -1,0 +1,439 @@
+﻿1
+00:00:00,210 --> 00:00:01,890
+- [Instructor] What we're
+going to do in this video
+
+2
+00:00:01,890 --> 00:00:05,439
+is give ourselves a quick
+introduction to carbohydrates,
+
+3
+00:00:05,440 --> 00:00:07,367
+and you might already be
+familiar with the notion.
+
+4
+00:00:07,367 --> 00:00:10,910
+If you look at some packaged food,
+
+5
+00:00:10,910 --> 00:00:12,208
+there's usually a nutritional label
+
+6
+00:00:12,208 --> 00:00:13,730
+and will say carbohydrates.
+
+7
+00:00:13,730 --> 00:00:16,030
+It will tell you a certain
+number of grams per serving.
+
+8
+00:00:16,030 --> 00:00:18,900
+And not all carbohydrates are edible,
+
+9
+00:00:18,900 --> 00:00:20,580
+but many of the things that we eat
+
+10
+00:00:20,580 --> 00:00:22,580
+or many carbohydrates are edible
+
+11
+00:00:22,580 --> 00:00:24,470
+and many of the foods we eat
+
+12
+00:00:24,470 --> 00:00:27,360
+have some carbohydrate component to it.
+
+13
+00:00:27,360 --> 00:00:29,550
+But what is it actually?
+
+14
+00:00:29,550 --> 00:00:32,170
+Well, we can look at the
+word and we see carbo,
+
+15
+00:00:32,170 --> 00:00:34,030
+so maybe it has something
+to do with carbons.
+
+16
+00:00:34,030 --> 00:00:35,250
+And it says hydrates,
+
+17
+00:00:35,250 --> 00:00:37,470
+so maybe it has something
+to do with water.
+
+18
+00:00:37,470 --> 00:00:39,960
+And if you said that,
+you'd be pretty close
+
+19
+00:00:39,960 --> 00:00:42,590
+because carbohydrates do involve carbons.
+
+20
+00:00:42,590 --> 00:00:44,710
+In fact, this is a very
+typical carbohydrate,
+
+21
+00:00:44,710 --> 00:00:46,310
+a very simple one right over here.
+
+22
+00:00:46,310 --> 00:00:48,350
+This is a glucose molecule.
+
+23
+00:00:48,350 --> 00:00:51,540
+And in gray, you see
+that it has six carbons.
+
+24
+00:00:51,540 --> 00:00:53,800
+And the hydrate part refers to,
+
+25
+00:00:53,800 --> 00:00:58,349
+that carbohydrates typically
+have oxygen to hydrogens
+
+26
+00:00:58,350 --> 00:01:00,940
+in the same ratio as you
+would expect in water.
+
+27
+00:01:00,940 --> 00:01:03,379
+So, for every one oxygen, two hydrogens,
+
+28
+00:01:03,380 --> 00:01:04,959
+and you see that right over here,
+
+29
+00:01:04,959 --> 00:01:06,649
+where in glucose, you have one, two,
+
+30
+00:01:06,650 --> 00:01:09,450
+three, four, five, six oxygens
+
+31
+00:01:09,450 --> 00:01:11,870
+and you have 12 hydrogens,
+
+32
+00:01:11,870 --> 00:01:14,320
+and so that's where this word comes from.
+
+33
+00:01:14,320 --> 00:01:16,669
+Now, another word that is often used
+
+34
+00:01:16,670 --> 00:01:21,142
+interchangeably with carbohydrates
+is the term saccharide.
+
+35
+00:01:21,142 --> 00:01:25,780
+Saccharide, and saccharide
+comes from Greek for sweet,
+
+36
+00:01:25,780 --> 00:01:29,650
+and that makes sense because
+if you were to taste glucose,
+
+37
+00:01:29,650 --> 00:01:32,290
+it would taste sweet to you.
+
+38
+00:01:32,290 --> 00:01:35,920
+Now, what's interesting
+about something like glucose
+
+39
+00:01:35,920 --> 00:01:38,970
+is glucose can be a standalone molecule,
+
+40
+00:01:38,970 --> 00:01:41,730
+a very simple sugar in this case
+
+41
+00:01:41,730 --> 00:01:44,630
+or you can build up larger molecules
+
+42
+00:01:44,630 --> 00:01:47,229
+with really glucose as a building block.
+
+43
+00:01:47,230 --> 00:01:49,340
+So for example, right over here,
+
+44
+00:01:49,340 --> 00:01:52,260
+we have a part of a glycogen molecule.
+
+45
+00:01:52,260 --> 00:01:53,093
+And as you can see,
+
+46
+00:01:53,093 --> 00:01:56,600
+it's just a repeating
+sequence of glucose molecules.
+
+47
+00:01:56,600 --> 00:01:58,320
+And so, something like this,
+
+48
+00:01:58,320 --> 00:02:01,300
+we would call glucose a monosaccharide.
+
+49
+00:02:01,300 --> 00:02:03,440
+It's one simple sugar right over here.
+
+50
+00:02:03,440 --> 00:02:04,399
+Monosaccharide.
+
+51
+00:02:06,810 --> 00:02:09,800
+And we would call this
+glycogen a polysaccharide.
+
+52
+00:02:11,350 --> 00:02:14,160
+Polysaccharide.
+
+53
+00:02:15,340 --> 00:02:16,620
+Or another way to think about it
+
+54
+00:02:16,620 --> 00:02:20,560
+is glucose is the building
+block for the glycogen.
+
+55
+00:02:20,560 --> 00:02:24,070
+Another term you might see
+is monomer and polymer.
+
+56
+00:02:24,070 --> 00:02:25,329
+Those are the general terms
+
+57
+00:02:25,330 --> 00:02:28,250
+or if I'm building a large molecule
+
+58
+00:02:28,250 --> 00:02:30,380
+out of a chain of smaller ones,
+
+59
+00:02:30,380 --> 00:02:33,370
+the building blocks, we
+consider to be monomers,
+
+60
+00:02:33,370 --> 00:02:36,220
+and then the thing that we
+build out of those monomers
+
+61
+00:02:36,220 --> 00:02:38,520
+could be our polymer.
+
+62
+00:02:38,520 --> 00:02:41,680
+And as we'll see, this
+monomer polymer phenomenon
+
+63
+00:02:41,680 --> 00:02:44,830
+is not limited to
+carbohydrates or saccharides.
+
+64
+00:02:44,830 --> 00:02:47,080
+We're gonna see that same
+relationship, for example,
+
+65
+00:02:47,080 --> 00:02:50,410
+between amino acids and proteins.
+
+66
+00:02:50,410 --> 00:02:54,010
+Now, what role do carbohydrates play
+
+67
+00:02:54,010 --> 00:02:57,130
+inside of biological systems?
+
+68
+00:02:57,130 --> 00:02:59,359
+Well, saccharides or carbohydrates
+
+69
+00:02:59,360 --> 00:03:03,330
+are often associated
+with the source energy.
+
+70
+00:03:03,330 --> 00:03:05,060
+Glucose can be converted
+
+71
+00:03:05,060 --> 00:03:07,970
+very quickly to energy
+in biological cells.
+
+72
+00:03:07,970 --> 00:03:10,720
+Glycogen is also a store of energy
+
+73
+00:03:10,720 --> 00:03:12,320
+in your liver and your muscles.
+
+74
+00:03:12,320 --> 00:03:14,299
+And once again, it can be broken down
+
+75
+00:03:14,300 --> 00:03:16,216
+into the glucose molecules,
+which once again,
+
+76
+00:03:16,216 --> 00:03:20,520
+is a very readily
+available source of energy.
+
+77
+00:03:20,520 --> 00:03:24,610
+Now, in plants especially,
+some of these polysaccharides
+
+78
+00:03:24,610 --> 00:03:26,530
+could also play a structural role
+
+79
+00:03:26,530 --> 00:03:28,220
+if we're talking about
+things like cellulose,
+
+80
+00:03:28,220 --> 00:03:30,609
+which is another polysaccharide.
+
+81
+00:03:30,610 --> 00:03:33,560
+So, there's also a structural role.
+
+82
+00:03:33,560 --> 00:03:34,850
+Now, I will leave you there.
+
+83
+00:03:34,850 --> 00:03:37,420
+We have focused only on one type
+
+84
+00:03:37,420 --> 00:03:39,220
+of monosaccharide in glucose,
+
+85
+00:03:39,220 --> 00:03:43,530
+and only on one type of
+polysaccharide in glycogen.
+
+86
+00:03:43,530 --> 00:03:46,010
+As we will see, glucose does show up a lot
+
+87
+00:03:46,010 --> 00:03:49,030
+but there are many other
+types of monosaccharides
+
+88
+00:03:49,030 --> 00:03:52,340
+and there are many other
+types of polysaccharides.
+
+89
+00:03:52,340 --> 00:03:54,870
+And polysaccharides in particular are part
+
+90
+00:03:54,870 --> 00:03:59,000
+of a broader group of molecules
+known as macromolecules.
+
+91
+00:04:00,250 --> 00:04:04,030
+And as you can imagine,
+from the macro prefix,
+
+92
+00:04:04,030 --> 00:04:07,120
+it's referring to large molecules,
+
+93
+00:04:07,120 --> 00:04:10,320
+oftentimes that have
+thousands of atoms in them.
+
+94
+00:04:10,320 --> 00:04:11,440
+But don't get the wrong idea.
+
+95
+00:04:11,440 --> 00:04:13,609
+They're very large at an atomic level
+
+96
+00:04:13,610 --> 00:04:15,980
+but each of these circles are still atoms,
+
+97
+00:04:15,980 --> 00:04:18,159
+so you would still need a very, very,
+
+98
+00:04:18,160 --> 00:04:21,190
+very, very powerful microscope
+to even to take a look
+
+99
+00:04:21,190 --> 00:04:23,990
+at even some of the
+largest macromolecules,
+
+100
+00:04:24,950 --> 00:04:27,420
+including polysaccharides.
+

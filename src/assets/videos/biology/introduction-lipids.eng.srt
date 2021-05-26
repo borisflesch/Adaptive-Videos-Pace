@@ -1,0 +1,586 @@
+﻿1
+00:00:00,330 --> 00:00:02,310
+- [Instructor] What we are
+going to do in this video
+
+2
+00:00:02,310 --> 00:00:05,320
+is talk a little bit about lipids.
+
+3
+00:00:05,320 --> 00:00:06,610
+Now, a lot of times,
+
+4
+00:00:06,610 --> 00:00:10,800
+lipids are strongly associated with fats,
+
+5
+00:00:10,800 --> 00:00:12,730
+and that's not incorrect.
+
+6
+00:00:12,730 --> 00:00:14,230
+Fats are lipids,
+
+7
+00:00:14,230 --> 00:00:17,680
+but not all lipids are fats.
+
+8
+00:00:17,680 --> 00:00:20,140
+A better definition or
+a better association
+
+9
+00:00:20,140 --> 00:00:22,700
+for lipids would be a class of molecules
+
+10
+00:00:22,700 --> 00:00:27,259
+that you often see in biological
+systems that are not so
+
+11
+00:00:27,260 --> 00:00:29,180
+water
+
+12
+00:00:29,180 --> 00:00:30,190
+soluble.
+
+13
+00:00:30,190 --> 00:00:32,270
+And I didn't say outright hydrophobic,
+
+14
+00:00:32,270 --> 00:00:34,890
+which means not attracted to water,
+
+15
+00:00:34,890 --> 00:00:36,490
+because there are definitely lipids
+
+16
+00:00:36,490 --> 00:00:38,240
+that have parts that are hydrophobic,
+
+17
+00:00:38,240 --> 00:00:40,690
+that are trying to get
+away from the water.
+
+18
+00:00:40,690 --> 00:00:42,849
+But there is other parts
+that are hydrophilic,
+
+19
+00:00:42,850 --> 00:00:43,850
+that like the water,
+
+20
+00:00:43,850 --> 00:00:47,800
+that would be attracted
+to water molecules.
+
+21
+00:00:47,800 --> 00:00:50,099
+Now, in terms of roles
+they play in the body,
+
+22
+00:00:50,100 --> 00:00:53,210
+and we can think of fat molecules here,
+
+23
+00:00:53,210 --> 00:00:55,380
+well, they definitely play a role
+
+24
+00:00:55,380 --> 00:00:57,590
+in terms of energy
+
+25
+00:00:57,590 --> 00:00:58,540
+storage.
+
+26
+00:00:59,440 --> 00:01:00,629
+Whenever I look at my belly,
+
+27
+00:01:00,630 --> 00:01:02,830
+I just like to think of all that energy
+
+28
+00:01:02,830 --> 00:01:05,670
+that is there covering my six-pack.
+
+29
+00:01:05,670 --> 00:01:08,580
+They could be involved in signaling.
+
+30
+00:01:10,370 --> 00:01:13,250
+In future videos, we're
+going to study hormones,
+
+31
+00:01:13,250 --> 00:01:15,390
+and hormones are nothing but molecules
+
+32
+00:01:15,390 --> 00:01:19,820
+that help transmit a signal
+from one part of the body
+
+33
+00:01:19,820 --> 00:01:21,669
+to another part of the body.
+
+34
+00:01:21,670 --> 00:01:25,400
+And many of these hormones are lipids.
+
+35
+00:01:25,400 --> 00:01:28,440
+They're also involved in membranes.
+
+36
+00:01:28,440 --> 00:01:30,470
+So a lot of the time in biology,
+
+37
+00:01:30,470 --> 00:01:32,840
+we're gonna talk about cellular membranes
+
+38
+00:01:32,840 --> 00:01:35,850
+and how they're formed
+with these phospholipids.
+
+39
+00:01:35,850 --> 00:01:38,119
+And we'll see these
+phospholipids, in particular,
+
+40
+00:01:38,120 --> 00:01:40,630
+have one end that's trying
+to get away from the water
+
+41
+00:01:40,630 --> 00:01:43,020
+and another end that is
+attracted to the water.
+
+42
+00:01:43,020 --> 00:01:47,140
+And that's actually what
+makes them good for membranes.
+
+43
+00:01:47,140 --> 00:01:50,040
+Just going back to fats,
+let's actually take a look
+
+44
+00:01:50,040 --> 00:01:53,040
+at what some of these
+lipid molecules look like.
+
+45
+00:01:54,120 --> 00:01:59,010
+So this right over here is
+an example of a fat molecule,
+
+46
+00:01:59,010 --> 00:02:02,000
+but the general structure
+you're going to have is
+
+47
+00:02:02,000 --> 00:02:04,340
+these three fatty acids.
+
+48
+00:02:04,340 --> 00:02:06,750
+So that's one right over there,
+
+49
+00:02:06,750 --> 00:02:08,330
+one fatty acid,
+
+50
+00:02:08,330 --> 00:02:10,960
+two fatty acids,
+
+51
+00:02:10,960 --> 00:02:13,540
+and three fatty acids
+
+52
+00:02:13,540 --> 00:02:16,489
+that are connected to a glycerol.
+
+53
+00:02:16,490 --> 00:02:18,360
+And don't worry too much
+about the words here.
+
+54
+00:02:18,360 --> 00:02:19,860
+You'll study them more when you get
+
+55
+00:02:19,860 --> 00:02:21,660
+to an organic chemistry class.
+
+56
+00:02:21,660 --> 00:02:24,359
+But that's where this word
+triglyceride comes from,
+
+57
+00:02:24,360 --> 00:02:27,410
+tri- for your three fatty acids
+
+58
+00:02:27,410 --> 00:02:29,950
+and -glyceride from a glycerol.
+
+59
+00:02:29,950 --> 00:02:34,950
+And triglyceride is, in
+fact, another word for fat.
+
+60
+00:02:35,400 --> 00:02:40,180
+And what makes a triglyceride
+not so soluble in water?
+
+61
+00:02:40,180 --> 00:02:43,410
+Look at these long hydrocarbon
+chains where you just
+
+62
+00:02:43,410 --> 00:02:45,940
+essentially have a bunch
+of carbons and hydrogens.
+
+63
+00:02:45,940 --> 00:02:49,570
+Those parts, remember, things
+that are soluble in water,
+
+64
+00:02:49,570 --> 00:02:51,310
+they tend to be polar molecules,
+
+65
+00:02:51,310 --> 00:02:54,360
+things that have a partial
+charge on one end or another
+
+66
+00:02:54,360 --> 00:02:55,780
+or even a full charge.
+
+67
+00:02:55,780 --> 00:02:58,090
+But when we look at
+these hydrocarbon chains,
+
+68
+00:02:58,090 --> 00:03:00,660
+they tend to not have
+these partial charges on
+
+69
+00:03:00,660 --> 00:03:02,770
+one side or another,
+
+70
+00:03:02,770 --> 00:03:07,120
+and so that doesn't make
+them so soluble in water.
+
+71
+00:03:07,120 --> 00:03:09,420
+And another word that you sometimes hear
+
+72
+00:03:09,420 --> 00:03:14,030
+associated with fats,
+saturated or unsaturated fat.
+
+73
+00:03:14,030 --> 00:03:15,700
+That's really referring to what's going on
+
+74
+00:03:15,700 --> 00:03:17,470
+on these hydrocarbon chains.
+
+75
+00:03:17,470 --> 00:03:18,900
+If the carbons are as bonded
+
+76
+00:03:18,900 --> 00:03:20,970
+to as many hydrogens as they can,
+
+77
+00:03:20,970 --> 00:03:22,810
+well, then you're talking
+about a saturated fat.
+
+78
+00:03:22,810 --> 00:03:24,700
+It's saturated with hydrogens.
+
+79
+00:03:24,700 --> 00:03:27,000
+If it's not bounded, if it,
+in theory, it could bond
+
+80
+00:03:27,000 --> 00:03:30,120
+to more hydrogens because it
+has some double bonds in there,
+
+81
+00:03:30,120 --> 00:03:31,640
+well, then it's unsaturated.
+
+82
+00:03:31,640 --> 00:03:34,260
+Maybe in a future video, we'll
+talk about the health issues
+
+83
+00:03:34,260 --> 00:03:36,980
+of saturated versus unsaturated fat.
+
+84
+00:03:36,980 --> 00:03:39,760
+Sometimes in popular
+culture, fat gets a bad name
+
+85
+00:03:39,760 --> 00:03:42,450
+because everyone's trying
+to get their six-packs
+
+86
+00:03:42,450 --> 00:03:45,859
+or whatever else, but it's
+very important to realize that
+
+87
+00:03:45,860 --> 00:03:48,100
+without fats you would die.
+
+88
+00:03:48,100 --> 00:03:50,989
+Many vitamins, which are
+not so soluble in water,
+
+89
+00:03:50,990 --> 00:03:53,170
+making them, in fact, lipids,
+
+90
+00:03:53,170 --> 00:03:57,809
+need fat in order to be
+absorbed into the body properly.
+
+91
+00:03:58,730 --> 00:04:02,239
+But as I also mentioned,
+all lipids are not fats.
+
+92
+00:04:03,560 --> 00:04:05,820
+Here are more examples of lipids,
+
+93
+00:04:05,820 --> 00:04:07,150
+and I'm not gonna go into detail
+
+94
+00:04:07,150 --> 00:04:08,980
+into their molecular structure.
+
+95
+00:04:08,980 --> 00:04:11,119
+But you see something similar here.
+
+96
+00:04:11,120 --> 00:04:14,500
+They all have long chains of hydrocarbons
+
+97
+00:04:14,500 --> 00:04:17,209
+that aren't so soluble in water.
+
+98
+00:04:17,209 --> 00:04:19,909
+These parts right over
+here would be hydrophobic,
+
+99
+00:04:19,910 --> 00:04:21,680
+hydrophobic.
+
+100
+00:04:21,680 --> 00:04:24,680
+But what's interesting, especially
+about this sphingomyelin,
+
+101
+00:04:24,680 --> 00:04:27,150
+which is involved in your
+myelin sheath in the brain,
+
+102
+00:04:27,150 --> 00:04:29,669
+it helps electrically insulate neurons,
+
+103
+00:04:29,670 --> 00:04:31,160
+it's also involved in membranes,
+
+104
+00:04:31,160 --> 00:04:33,040
+it makes up a substantial part
+
+105
+00:04:33,040 --> 00:04:35,850
+of the phospholipids in membranes,
+
+106
+00:04:35,850 --> 00:04:38,320
+is that this sphingomyelin right over here
+
+107
+00:04:38,320 --> 00:04:41,230
+has a part that actually is hydrophilic.
+
+108
+00:04:41,230 --> 00:04:42,810
+And as we'll see later on,
+
+109
+00:04:42,810 --> 00:04:45,717
+that's what makes things,
+molecules like this,
+
+110
+00:04:45,717 --> 00:04:48,530
+phospholipids, this is
+a sphingophospholipid,
+
+111
+00:04:48,530 --> 00:04:50,770
+makes them good for membrane structures.
+
+112
+00:04:50,770 --> 00:04:53,229
+Because the part that's
+attracted to the water
+
+113
+00:04:53,230 --> 00:04:54,490
+could be on the outside,
+
+114
+00:04:54,490 --> 00:04:56,740
+and the part that's not
+attracted to the water
+
+115
+00:04:56,740 --> 00:04:58,010
+could be on the inside.
+
+116
+00:04:58,010 --> 00:05:00,210
+And so you can form these membranes
+
+117
+00:05:00,210 --> 00:05:03,039
+that a cross-section of which
+would look something like this
+
+118
+00:05:03,040 --> 00:05:05,950
+where the circular parts
+are the part that want,
+
+119
+00:05:05,950 --> 00:05:08,570
+the parts that want to
+be around the water,
+
+120
+00:05:08,570 --> 00:05:10,849
+while these tails right over here,
+
+121
+00:05:10,850 --> 00:05:12,630
+these are the hydrophobic chains
+
+122
+00:05:12,630 --> 00:05:14,360
+that want to go away from the water.
+
+123
+00:05:14,360 --> 00:05:15,320
+And this is, in fact,
+
+124
+00:05:15,320 --> 00:05:17,610
+what cellular membranes actually look like
+
+125
+00:05:17,610 --> 00:05:20,670
+if you were zoom really,
+really, really far in.
+
+126
+00:05:20,670 --> 00:05:22,090
+I'll leave you there.
+
+127
+00:05:22,090 --> 00:05:26,729
+Between lipids, carbohydrates,
+proteins, nucleic acids,
+
+128
+00:05:26,730 --> 00:05:29,870
+we've really covered
+the major macromolecules
+
+129
+00:05:29,870 --> 00:05:32,140
+that you will see in biological systems.
+
+130
+00:05:32,140 --> 00:05:35,229
+Once again, what makes
+them macromolecules?
+
+131
+00:05:35,230 --> 00:05:36,610
+Well, they can be composed
+
+132
+00:05:36,610 --> 00:05:39,510
+of many, many, many, many, many atoms.
+
+133
+00:05:39,510 --> 00:05:41,870
+They aren't small molecules.
+

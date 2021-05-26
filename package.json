@@ -14,6 +14,7 @@
     "core-js": "^3.6.5",
     "keyword-extractor": "^0.0.19",
     "raw-loader": "^4.0.2",
+    "require-text": "^0.0.1",
     "subtitle": "^4.1.0",
     "vue": "^2.6.11",
     "vue-plyr": "^7.0.0",

@@ -1,0 +1,1148 @@
+﻿1
+00:00:00,625 --> 00:00:01,101
+- [Voiceover] In this video,
+
+2
+00:00:01,101 --> 00:00:02,482
+we're going to find the oxidation state
+
+3
+00:00:02,482 --> 00:00:05,222
+of carbon in several different molecules.
+
+4
+00:00:05,222 --> 00:00:06,871
+In earlier video, we've already seen
+
+5
+00:00:06,871 --> 00:00:09,215
+the definition for oxidation state,
+
+6
+00:00:09,215 --> 00:00:11,966
+and also how to calculate it.
+
+7
+00:00:11,967 --> 00:00:13,546
+So let's start with methane,
+
+8
+00:00:13,546 --> 00:00:15,090
+and let's find the oxidation state
+
+9
+00:00:15,090 --> 00:00:16,854
+of carbon and methane.
+
+10
+00:00:16,854 --> 00:00:19,328
+One approach is more of a
+general chemistry approach
+
+11
+00:00:19,328 --> 00:00:21,951
+where we know that hydrogen usually has
+
+12
+00:00:21,951 --> 00:00:24,331
+an oxidation state of plus one,
+
+13
+00:00:24,331 --> 00:00:28,267
+and we have four hydrogens
+for a total of plus four.
+
+14
+00:00:28,267 --> 00:00:30,090
+The sum has to be equal to zero,
+
+15
+00:00:30,090 --> 00:00:32,609
+so we know that carbon's oxidation state
+
+16
+00:00:32,609 --> 00:00:35,209
+must be minus four immediately,
+
+17
+00:00:35,209 --> 00:00:37,810
+since we only have one carbon here.
+
+18
+00:00:37,810 --> 00:00:39,006
+So let's go ahead and verify that
+
+19
+00:00:39,006 --> 00:00:40,805
+with our dot structure.
+
+20
+00:00:40,805 --> 00:00:43,011
+So remember, when we're calculating
+
+21
+00:00:43,011 --> 00:00:45,646
+the oxidation state using dot structures,
+
+22
+00:00:45,646 --> 00:00:47,666
+we're thinking about bonding electrons,
+
+23
+00:00:47,666 --> 00:00:49,372
+and we know that each bond consists
+
+24
+00:00:49,372 --> 00:00:51,010
+of two electrons, so we need
+
+25
+00:00:51,010 --> 00:00:52,949
+to put in the bonding electrons
+
+26
+00:00:52,949 --> 00:00:55,629
+for all of our bonds.
+
+27
+00:00:55,630 --> 00:00:58,626
+Next, we think about the oxidation state
+
+28
+00:00:58,626 --> 00:01:01,248
+for carbon, and we start with a number
+
+29
+00:01:01,249 --> 00:01:03,687
+of valence electrons in the free atom,
+
+30
+00:01:03,687 --> 00:01:05,289
+or the number of valence electrons
+
+31
+00:01:05,289 --> 00:01:07,553
+that carbon is supposed to have,
+
+32
+00:01:07,553 --> 00:01:09,131
+and we know carbon is supposed to have
+
+33
+00:01:09,132 --> 00:01:11,442
+four valence electrons,
+
+34
+00:01:11,442 --> 00:01:13,809
+so from that number,
+we subtract the number
+
+35
+00:01:13,810 --> 00:01:16,423
+of valence electrons in the bonded atom,
+
+36
+00:01:16,423 --> 00:01:18,002
+or the number of valence electrons
+
+37
+00:01:18,002 --> 00:01:20,845
+carbon has in our drawing.
+
+38
+00:01:20,846 --> 00:01:23,806
+But now we need to think
+about these covalent bonds
+
+39
+00:01:23,806 --> 00:01:27,509
+as being ionic, and so
+the more electronegative
+
+40
+00:01:27,509 --> 00:01:30,470
+atom is going to take all of the electrons
+
+41
+00:01:30,470 --> 00:01:32,525
+in the bond, so we need to think
+
+42
+00:01:32,525 --> 00:01:35,265
+about electronegativity differences,
+
+43
+00:01:35,265 --> 00:01:37,889
+and we're comparing carbon to hydrogen.
+
+44
+00:01:37,889 --> 00:01:40,720
+So which is more electronegative?
+
+45
+00:01:40,721 --> 00:01:43,461
+We know that carbon is
+more electronegative
+
+46
+00:01:43,461 --> 00:01:46,491
+than hydrogen, so the two electrons
+
+47
+00:01:46,491 --> 00:01:48,348
+in this bond here, carbon is going
+
+48
+00:01:48,348 --> 00:01:51,402
+to take both of them, so
+it's winner takes all.
+
+49
+00:01:51,402 --> 00:01:54,722
+Carbon's going to hog those
+electrons in this bond.
+
+50
+00:01:54,722 --> 00:01:57,286
+All right, same for this
+next carbon-hydrogen bond.
+
+51
+00:01:57,287 --> 00:01:58,902
+Carbon is more electronegative,
+
+52
+00:01:58,902 --> 00:02:00,666
+so it takes those electrons,
+
+53
+00:02:00,666 --> 00:02:02,801
+and all the way around.
+
+54
+00:02:02,802 --> 00:02:05,449
+So we can see that
+carbon is now surrounded
+
+55
+00:02:05,449 --> 00:02:08,699
+by eight electrons right,
+let's count them up here,
+
+56
+00:02:08,699 --> 00:02:12,926
+one, two, three, four, five,
+
+57
+00:02:12,926 --> 00:02:17,523
+six, seven, eight, so four minus eight
+
+58
+00:02:17,523 --> 00:02:21,029
+is equal to minus four, so we already knew
+
+59
+00:02:21,029 --> 00:02:23,862
+that minus four was going
+to be the oxidation state
+
+60
+00:02:23,862 --> 00:02:25,567
+for carbon.
+
+61
+00:02:25,568 --> 00:02:29,028
+Let's move on to another molecule here,
+
+62
+00:02:29,028 --> 00:02:32,999
+so C2H4, this is ethene, or ethylene.
+
+63
+00:02:32,999 --> 00:02:35,807
+What's the oxidation state of carbon
+
+64
+00:02:35,807 --> 00:02:37,084
+in this molecule?
+
+65
+00:02:37,085 --> 00:02:39,128
+Well hydrogen should be plus one,
+
+66
+00:02:39,128 --> 00:02:42,843
+and we have four of them
+for a total of plus four.
+
+67
+00:02:42,843 --> 00:02:45,606
+So the total for carbon
+should be minus four,
+
+68
+00:02:45,606 --> 00:02:47,777
+because that total has to sum to zero,
+
+69
+00:02:47,777 --> 00:02:50,262
+but this time we have two carbons,
+
+70
+00:02:50,262 --> 00:02:52,467
+so minus four divided by two
+
+71
+00:02:52,467 --> 00:02:55,787
+gives us minus two,
+each carbon should have
+
+72
+00:02:55,787 --> 00:02:58,864
+an oxidation state of minus two.
+
+73
+00:02:58,864 --> 00:02:59,979
+And let's verify that,
+
+74
+00:02:59,979 --> 00:03:02,185
+let's put in our bonding electrons,
+
+75
+00:03:02,185 --> 00:03:05,238
+and let's calculate the oxidation state
+
+76
+00:03:05,238 --> 00:03:08,500
+of carbon by using our
+little formula here.
+
+77
+00:03:08,500 --> 00:03:10,323
+So you put in our bonding electrons,
+
+78
+00:03:10,323 --> 00:03:12,517
+and let's just pick one of the carbons
+
+79
+00:03:12,517 --> 00:03:13,886
+to start off with, let's say we're talking
+
+80
+00:03:13,886 --> 00:03:16,243
+about the carbon on the right.
+
+81
+00:03:16,243 --> 00:03:19,158
+So we think about
+electronegativity differences,
+
+82
+00:03:19,158 --> 00:03:22,001
+and we know carbon is more
+electronegative than hydrogen,
+
+83
+00:03:22,002 --> 00:03:25,345
+so carbon's going to
+steal those electrons,
+
+84
+00:03:25,345 --> 00:03:26,402
+and same thing over here,
+
+85
+00:03:26,402 --> 00:03:28,061
+carbon's more electronegative,
+
+86
+00:03:28,062 --> 00:03:30,779
+so carbon steals those electrons too.
+
+87
+00:03:30,779 --> 00:03:32,566
+When we get to this double bond here
+
+88
+00:03:32,566 --> 00:03:36,151
+between the two carbons, we
+have these four electrons,
+
+89
+00:03:36,151 --> 00:03:38,708
+and now we're trying to
+compare the electronegativity
+
+90
+00:03:38,708 --> 00:03:42,191
+of carbon, to carbon, and obviously,
+
+91
+00:03:42,191 --> 00:03:44,315
+that's the same electronegativity.
+
+92
+00:03:44,315 --> 00:03:45,669
+So with four electrons,
+
+93
+00:03:45,669 --> 00:03:48,072
+we're going to divide
+those electrons equally,
+
+94
+00:03:48,072 --> 00:03:49,372
+because both of those carbons
+
+95
+00:03:49,372 --> 00:03:52,414
+have the same value for
+the electronegativity
+
+96
+00:03:52,414 --> 00:03:53,923
+and so we take those four electrons,
+
+97
+00:03:53,924 --> 00:03:55,108
+we divide them in half,
+
+98
+00:03:55,108 --> 00:03:56,988
+so we give two electrons to one carbon
+
+99
+00:03:56,988 --> 00:03:59,566
+and two electrons to the other carbon.
+
+100
+00:03:59,566 --> 00:04:02,932
+So carbon normally has
+four valence electrons,
+
+101
+00:04:02,932 --> 00:04:04,626
+right, so we're using our formula here
+
+102
+00:04:04,627 --> 00:04:05,951
+for oxidation state.
+
+103
+00:04:05,951 --> 00:04:07,948
+Oxidation state is equal to the number
+
+104
+00:04:07,948 --> 00:04:09,492
+of valence electrons that carbon
+
+105
+00:04:09,492 --> 00:04:11,813
+is supposed to have, minus the number
+
+106
+00:04:11,813 --> 00:04:13,914
+of valence electrons around carbon
+
+107
+00:04:13,914 --> 00:04:16,051
+in our drawings, so let's count them up
+
+108
+00:04:16,051 --> 00:04:18,743
+after we've accounted
+for electronegativity.
+
+109
+00:04:18,744 --> 00:04:22,332
+That's one, two, three, four,
+
+110
+00:04:22,332 --> 00:04:25,815
+five, and six, so four minus six
+
+111
+00:04:25,815 --> 00:04:28,195
+gives us an oxidation state for carbon
+
+112
+00:04:28,195 --> 00:04:30,493
+of minus two, which is in agreement
+
+113
+00:04:30,493 --> 00:04:32,780
+with what we calculated over here.
+
+114
+00:04:32,780 --> 00:04:34,255
+Keep in mind that each carbon
+
+115
+00:04:34,255 --> 00:04:35,996
+was supposed to have an oxidation state
+
+116
+00:04:35,996 --> 00:04:38,097
+of minus two, so if we look over here
+
+117
+00:04:38,097 --> 00:04:39,897
+at the carbon on the left,
+
+118
+00:04:39,897 --> 00:04:42,299
+and we just assign those
+electrons really quickly,
+
+119
+00:04:42,299 --> 00:04:44,412
+we can see that that would
+be the same caluclation,
+
+120
+00:04:44,413 --> 00:04:46,410
+four minus six gives us minus two,
+
+121
+00:04:46,410 --> 00:04:49,974
+so each carbon has an
+oxidation state of minus two.
+
+122
+00:04:49,974 --> 00:04:52,354
+We move on to another molecule,
+
+123
+00:04:52,354 --> 00:04:56,591
+so CH2O, this is formaldehyde,
+
+124
+00:04:56,591 --> 00:04:59,110
+and we know that oxygen usually has
+
+125
+00:04:59,110 --> 00:05:01,537
+an oxidation state of minus two,
+
+126
+00:05:01,537 --> 00:05:03,534
+and we have one oxygen for a total
+
+127
+00:05:03,534 --> 00:05:05,275
+of minus two down here.
+
+128
+00:05:05,275 --> 00:05:07,515
+Hydrogen usually has an oxidation state
+
+129
+00:05:07,516 --> 00:05:09,292
+of plus one, and we have two of them
+
+130
+00:05:09,292 --> 00:05:10,917
+for plus two.
+
+131
+00:05:10,917 --> 00:05:12,832
+This total has to sum to zero,
+
+132
+00:05:12,833 --> 00:05:15,050
+so carbon should have an oxidation state
+
+133
+00:05:15,050 --> 00:05:18,254
+of zero in this molecule.
+
+134
+00:05:18,254 --> 00:05:20,076
+And let's go ahead and
+look at the dot structure.
+
+135
+00:05:20,076 --> 00:05:23,478
+We put in all of our bonding electrons,
+
+136
+00:05:23,478 --> 00:05:26,393
+so we can find the oxidation state easier,
+
+137
+00:05:26,393 --> 00:05:29,515
+and we think about
+electronegativity differences.
+
+138
+00:05:29,516 --> 00:05:32,139
+We know carbon's more
+electronegative than hydrogen
+
+139
+00:05:32,139 --> 00:05:34,440
+so carbon takes those electrons.
+
+140
+00:05:34,440 --> 00:05:37,424
+Same for this bond, carbon
+takes those electrons.
+
+141
+00:05:37,424 --> 00:05:40,395
+But now, now we're going to compare carbon
+
+142
+00:05:40,396 --> 00:05:44,970
+to oxygen, and we know oxygen
+is more electronegative
+
+143
+00:05:44,970 --> 00:05:47,536
+than carbon, so oxygen's going to take
+
+144
+00:05:47,536 --> 00:05:49,997
+all of those electrons, so all four
+
+145
+00:05:49,997 --> 00:05:52,656
+of those electrons in that double bond.
+
+146
+00:05:52,656 --> 00:05:55,012
+So it's winner takes all
+when you're thinking about
+
+147
+00:05:55,012 --> 00:05:56,893
+oxidation states.
+
+148
+00:05:56,893 --> 00:05:59,238
+So because oxygen is more electronegative,
+
+149
+00:05:59,238 --> 00:06:01,293
+it takes all of those electrons,
+
+150
+00:06:01,293 --> 00:06:03,220
+and now we can see that
+carbon is surrounded
+
+151
+00:06:03,220 --> 00:06:06,552
+by four electrons, so one, two,
+
+152
+00:06:06,552 --> 00:06:09,292
+three, four, carbon is supposed
+
+153
+00:06:09,292 --> 00:06:12,090
+to have four valence electrons around it,
+
+154
+00:06:12,090 --> 00:06:14,655
+and here we see it is surrounded by four
+
+155
+00:06:14,656 --> 00:06:17,453
+and once we take into
+account electronegativity,
+
+156
+00:06:17,453 --> 00:06:20,575
+so four minus four gives
+us an oxidation state
+
+157
+00:06:20,576 --> 00:06:24,477
+of zero, so in the formaldehyde molecule,
+
+158
+00:06:24,477 --> 00:06:27,089
+carbon has an oxidation state of zero,
+
+159
+00:06:27,089 --> 00:06:28,969
+which is what we predicted over here.
+
+160
+00:06:28,970 --> 00:06:30,397
+Let's think about oxygen.
+
+161
+00:06:30,397 --> 00:06:33,335
+We said that oxygen would
+have an oxidation state
+
+162
+00:06:33,335 --> 00:06:36,330
+of minus two, so let's look at oxygen,
+
+163
+00:06:36,330 --> 00:06:38,570
+oxygen is right here.
+
+164
+00:06:38,571 --> 00:06:41,067
+Let's think about how
+many valence electrons
+
+165
+00:06:41,067 --> 00:06:43,087
+oxygen should have.
+
+166
+00:06:43,087 --> 00:06:45,896
+Well, because of it's position
+on the periodic table,
+
+167
+00:06:45,896 --> 00:06:48,554
+oxygen should have six valence electrons.
+
+168
+00:06:48,554 --> 00:06:51,272
+How many electrons are around it now,
+
+169
+00:06:51,272 --> 00:06:53,837
+once we've accounted
+for electronegativity?
+
+170
+00:06:53,837 --> 00:06:57,587
+Well, here's one, two, three, four,
+
+171
+00:06:57,587 --> 00:07:01,034
+five, six, seven, and eight.
+
+172
+00:07:01,035 --> 00:07:04,147
+So six minus eight gives
+us an oxidation state
+
+173
+00:07:04,147 --> 00:07:06,852
+for oxygen of minus two.
+
+174
+00:07:06,852 --> 00:07:09,207
+What about for hydrogen?
+
+175
+00:07:09,207 --> 00:07:13,806
+So hydrogen should have
+one valence electron,
+
+176
+00:07:13,806 --> 00:07:16,267
+but there's zero electrons around it here
+
+177
+00:07:16,267 --> 00:07:18,786
+because carbon's more
+electronegative than hydrogen,
+
+178
+00:07:18,786 --> 00:07:21,770
+so one minus zero gives
+us an oxidation state
+
+179
+00:07:21,770 --> 00:07:25,450
+of plus one, which is what
+we predicted over here,
+
+180
+00:07:25,450 --> 00:07:27,551
+and the same thing for this hydrogen.
+
+181
+00:07:27,551 --> 00:07:31,474
+So this formula works for other atoms too.
+
+182
+00:07:31,475 --> 00:07:34,435
+All right, let's do another example,
+
+183
+00:07:34,435 --> 00:07:36,873
+and this time we're doing formic acid,
+
+184
+00:07:36,873 --> 00:07:41,873
+so CH2O2, oxygen should be minus two,
+
+185
+00:07:42,191 --> 00:07:43,563
+and we have two of them,
+
+186
+00:07:43,563 --> 00:07:46,604
+so we have minus four
+for totaling our oxygens.
+
+187
+00:07:46,604 --> 00:07:48,264
+Hydrogen should be plus one,
+
+188
+00:07:48,264 --> 00:07:51,945
+and we have two of them
+for a total of plus two,
+
+189
+00:07:51,945 --> 00:07:54,126
+and now, this total has
+to (mumbles) equal zero.
+
+190
+00:07:54,126 --> 00:07:56,563
+So we know that carbon's oxidation state
+
+191
+00:07:56,563 --> 00:08:01,103
+should be plus two in the
+formic acid molecule here.
+
+192
+00:08:01,103 --> 00:08:05,003
+So let's go over and put
+in our bonding electrons,
+
+193
+00:08:05,003 --> 00:08:07,721
+so we put in all of our
+bonding electrons here,
+
+194
+00:08:07,721 --> 00:08:11,703
+and we think about the
+oxidation state of carbon,
+
+195
+00:08:11,703 --> 00:08:14,301
+we think about electronegativities.
+
+196
+00:08:14,302 --> 00:08:16,857
+So carbon is more
+electronegative than hydrogen,
+
+197
+00:08:16,857 --> 00:08:19,759
+so carbon gets those two
+electrons in that bond,
+
+198
+00:08:19,759 --> 00:08:22,174
+but over here, oxygen
+is more electronegative
+
+199
+00:08:22,174 --> 00:08:25,181
+than carbon, so oxygen
+takes those electrons,
+
+200
+00:08:25,181 --> 00:08:26,561
+and the same thing above,
+
+201
+00:08:26,562 --> 00:08:28,420
+oxygen is more
+electronegative than carbon,
+
+202
+00:08:28,420 --> 00:08:30,835
+so oxygen takes those electrons too.
+
+203
+00:08:30,835 --> 00:08:33,284
+So what's the oxidation state of carbon
+
+204
+00:08:33,284 --> 00:08:35,082
+in formic acid?
+
+205
+00:08:35,082 --> 00:08:38,044
+Well, carbon is supposed to
+have four valence electrons,
+
+206
+00:08:38,044 --> 00:08:39,761
+and from that we subtract the number
+
+207
+00:08:39,761 --> 00:08:41,560
+of electrons around carbon,
+
+208
+00:08:41,561 --> 00:08:43,640
+once we've accounted
+for electronegativity.
+
+209
+00:08:43,640 --> 00:08:46,438
+Once we pretend like everything is ionic,
+
+210
+00:08:46,438 --> 00:08:48,760
+and that's only two electrons this time,
+
+211
+00:08:48,760 --> 00:08:51,801
+so four minus two gives
+us an oxidation state
+
+212
+00:08:51,801 --> 00:08:55,041
+for carbon of plus two,
+just like we predicted
+
+213
+00:08:55,041 --> 00:08:56,259
+over here.
+
+214
+00:08:56,259 --> 00:08:58,372
+So you can see every molecule we've done
+
+215
+00:08:58,372 --> 00:09:00,659
+so far, has had a
+different oxidation state
+
+216
+00:09:00,659 --> 00:09:04,258
+for carbon, carbon is unique,
+
+217
+00:09:04,258 --> 00:09:06,522
+it has all these different
+oxidation states.
+
+218
+00:09:06,522 --> 00:09:09,866
+Let's finally look at carbon dioxide.
+
+219
+00:09:09,866 --> 00:09:12,664
+So oxygen should have an oxidation state
+
+220
+00:09:12,664 --> 00:09:15,310
+of minus two, and we have two of them
+
+221
+00:09:15,310 --> 00:09:17,064
+for a total of minus four,
+
+222
+00:09:17,064 --> 00:09:19,408
+so carbon must have an oxidation state
+
+223
+00:09:19,408 --> 00:09:22,450
+of plus four, so we look
+at our dot structure
+
+224
+00:09:22,450 --> 00:09:27,047
+over here, and we put in
+our bonding electrons,
+
+225
+00:09:27,047 --> 00:09:29,404
+and we think about electronegativity.
+
+226
+00:09:29,404 --> 00:09:32,423
+Oxygen is more
+electronegative than carbon,
+
+227
+00:09:32,423 --> 00:09:34,327
+so oxygen is going to steal --
+
+228
+00:09:34,327 --> 00:09:36,266
+each oxygen is going
+to steal the electrons
+
+229
+00:09:36,266 --> 00:09:37,612
+in those bonds.
+
+230
+00:09:37,612 --> 00:09:38,831
+Let me re-draw it here.
+
+231
+00:09:38,831 --> 00:09:41,766
+I'll show oxygen with all these electrons
+
+232
+00:09:41,766 --> 00:09:43,719
+around it so the four electrons
+
+233
+00:09:43,720 --> 00:09:45,159
+in that double bond here,
+
+234
+00:09:45,159 --> 00:09:47,877
+are all going to be on
+this oxygen on the left.
+
+235
+00:09:47,877 --> 00:09:50,257
+Same thing for the oxygen on the right.
+
+236
+00:09:50,257 --> 00:09:51,637
+It has these lone pairs of electrons,
+
+237
+00:09:51,638 --> 00:09:53,577
+and it's more electronegative than carbon,
+
+238
+00:09:53,577 --> 00:09:55,736
+so it steals all of those electrons,
+
+239
+00:09:55,736 --> 00:09:58,174
+which leaves carbon with zero electrons
+
+240
+00:09:58,174 --> 00:10:01,853
+around it, so to find
+carbon's oxidation state,
+
+241
+00:10:01,854 --> 00:10:03,839
+we know carbon should have four
+
+242
+00:10:03,839 --> 00:10:06,309
+valence electrons, and here,
+
+243
+00:10:06,309 --> 00:10:08,874
+we have zero electrons around carbon.
+
+244
+00:10:08,874 --> 00:10:11,788
+So four minus zero gives
+us an oxidation state
+
+245
+00:10:11,788 --> 00:10:15,433
+of plus four, just as we predicted,
+
+246
+00:10:15,433 --> 00:10:17,851
+and if you wanted to do each oxygen,
+
+247
+00:10:17,851 --> 00:10:20,929
+oxygen should have six valence electrons,
+
+248
+00:10:20,929 --> 00:10:23,564
+and here we have one, two, three,
+
+249
+00:10:23,565 --> 00:10:26,885
+four, five, six, seven, eight,
+
+250
+00:10:26,885 --> 00:10:29,788
+so six minus eight gives us minus two
+
+251
+00:10:29,788 --> 00:10:32,771
+for the oxidation state of oxygen.
+
+252
+00:10:32,771 --> 00:10:34,070
+All right, let's go back up to
+
+253
+00:10:34,071 --> 00:10:35,523
+the beginning here.
+
+254
+00:10:35,523 --> 00:10:37,427
+Let's look at all these
+different oxidation states
+
+255
+00:10:37,427 --> 00:10:39,342
+that we covered for carbon.
+
+256
+00:10:39,342 --> 00:10:41,564
+So we started off with an oxidation state
+
+257
+00:10:41,565 --> 00:10:43,475
+for carbon of minus four,
+
+258
+00:10:43,475 --> 00:10:45,297
+we went to minus two, and then we went
+
+259
+00:10:45,297 --> 00:10:49,570
+to zero, and then we went to plus two,
+
+260
+00:10:49,570 --> 00:10:52,948
+and then finally, we
+ended up with plus four.
+
+261
+00:10:52,948 --> 00:10:55,967
+So carbon can have a
+range of oxidation states,
+
+262
+00:10:55,967 --> 00:10:58,451
+from minus four to plus four,
+
+263
+00:10:58,451 --> 00:11:01,516
+when you're talking about
+carbon with four bonds.
+
+264
+00:11:01,516 --> 00:11:03,049
+And you can also have in between, right,
+
+265
+00:11:03,049 --> 00:11:04,834
+it's possible, of course,
+for carbon to have
+
+266
+00:11:04,835 --> 00:11:07,146
+an oxidation state of plus three,
+
+267
+00:11:07,146 --> 00:11:08,434
+I just didn't do an example
+
+268
+00:11:08,434 --> 00:11:10,452
+like that in this video.
+
