@@ -4,9 +4,16 @@
       <div class="video-metadata">
         <h5>Video metadata</h5>
         <ul>
-          <li>Category: </li>
-          <li>Topic: </li>
-          <li>Speaker pace: </li>
+          <li>Duration: {{ mediaMetadata.duration.toFixed(2) }} secs</li>
+          <li>Adjusted video speed: {{ mediaMetadata.speed.toFixed(2) }}</li>
+          <li>Real current speaker pace: {{ mediaMetadata.currSpeakerWpm }}</li>
+          <li>Category: {{ mediaMetadata.category }}</li>
+          <li>
+            Current topics:
+            <ul>
+              <li v-for="(topic, index) in mediaMetadata.currTopic" :key="index">{{ topic }}</li>
+            </ul>
+          </li>
         </ul>
         <h5>User's model</h5>
         <ul>
@@ -17,7 +24,7 @@
       </div>
       <div class="player-wrapper">
         <vue-plyr ref="plyr" :options="plyrOptions">
-          <video controls crossorigin playsinline data-poster="poster.jpg">
+          <video controls crossorigin>
             <source src="../assets/videos/algebra/polynomials-intro.mp4" type="video/mp4" />
             <track
               default
@@ -31,7 +38,7 @@
 
         <div class="speed-control">
           <button @click.prevent="slower" class="slower">-</button>
-          <p>Current speed: {{ currentSpeed }} wpm</p>
+          <p>Automatically adjust speed to {{ currentSpeed }} wpm</p>
           <button @click.prevent="faster" class="faster">+</button>
         </div>
       </div>
@@ -40,6 +47,10 @@
 </template>
 
 <script>
+import srt from 'raw-loader!./../assets/videos/algebra/polynomials-intro.eng.srt'
+import { parseSync } from 'subtitle'
+import keyword_extractor from 'keyword-extractor'
+
 export default {
   name: "VideoPlayer",
   props: {
@@ -48,24 +59,118 @@ export default {
   data() {
     return {
       currentSpeed: 100,
+      mediaMetadata: {
+        duration: 0.00,
+        speed: 0.00,
+        transcription: null,
+        category: null,
+        currTopic: null,
+        currSpeakerWpm: null,
+      },
+      intervalUpdateFct: null,
+      // refreshInterval: 15000, // Update every 15s
+      refreshInterval: 5000, // Update every 5s
+      userModel: [],
       plyrOptions: {}
     }
   },
   mounted() {
-    console.log(this.$refs.plyr.player);
+    // console.log(this.$refs.plyr.player);
+    // this.$refs.plyr.player.source = {
+    //   type: 'video',
+    //   title: 'Example title',
+    //   sources: [{ src: '../assets/videos/algebra/polynomials-intro.mp4', type: 'video/mp4', size: 720, }],
+    //   tracks: [{
+    //       kind: 'captions',
+    //       label: 'English',
+    //       srclang: 'en',
+    //       src: '/path/to/captions.en.vtt',
+    //       default: true
+    //   }],
+    // };
+
+    this.mediaMetadata.category = 'Mathematics'
+
     this.$refs.plyr.player.on('ready', () => {
       console.log('Plyr Ready!')
       // this.$refs.plyr.player.captions = { active: true, language: 'auto', update: false }
     })
+
+    this.$refs.plyr.player.on('loadedmetadata', () => {
+      console.log('Plyr metadata loaded')
+      this.mediaMetadata.transcription = parseSync(srt)
+      this.mediaMetadata.duration = this.$refs.plyr.player.duration
+      this.mediaMetadata.speed = this.$refs.plyr.player.speed
+    })
+
+    // On timeupdate, extract current pace + topic of the video from subtitles (now + 15secs)
+    this.$refs.plyr.player.on('playing', () => {
+      console.log('Playing')
+      this.processMetadataRefresh()
+
+      // Update metadata every 15 seconds
+      this.intervalUpdateFct = setInterval(() => {
+        this.processMetadataRefresh()
+      }, this.refreshInterval)
+    })
+
+    this.$refs.plyr.player.on('pause', () => {
+      console.log('Paused')
+      clearInterval(this.intervalUpdateFct)
+    })
+
   },
   methods: {
-    slower: function() {
-      this.currentSpeed -= 10;
-      this.$refs.plyr.player.speed -= 0.1
+    slower() {
+      this.currentSpeed -= 10
+      this.updatePlayerSpeed()
     },
-    faster: function() {
-      this.currentSpeed += 10;
-      this.$refs.plyr.player.speed += 0.1
+    faster() {
+      this.currentSpeed += 10
+      this.updatePlayerSpeed()
+    },
+    updatePlayerSpeed() {
+      this.mediaMetadata.speed = this.currentSpeed / (this.mediaMetadata.currSpeakerWpm ?? 160)
+      this.$refs.plyr.player.speed = this.mediaMetadata.speed
+    },
+    processMetadataRefresh() {
+      const margin = 0 // Margin of 3s
+      const currentTime = this.$refs.plyr.player.currentTime * 1000 // s -> ms
+      const beginTime = currentTime - margin
+      const endTime = currentTime + this.refreshInterval + margin
+
+      // Fetch transcriptions between now and +{refreshInterval} timeframe
+      const transcriptions = this.mediaMetadata.transcription.filter(t => {
+        return (
+          (t.data.start >= beginTime && t.data.end <= endTime)
+          || (t.data.start < beginTime && t.data.end >= beginTime && t.data.end <= endTime)
+          || (t.data.start >= beginTime && t.data.start <= endTime && t.data.end > endTime)
+        )
+      })
+
+      const transcriptionBegin = transcriptions[0].data.start
+      const transcriptionEnd = transcriptions[transcriptions.length - 1].data.end
+      const fullTranscriptionStr = transcriptions.map(t => t.data.text).join(' ')
+      const totalWords = fullTranscriptionStr.split(' ').length
+
+      // Compute real speaker pace and adjust video speed accordingly
+      this.mediaMetadata.currSpeakerWpm = parseInt(totalWords * 60000 / (transcriptionEnd - transcriptionBegin))
+      this.updatePlayerSpeed()
+
+      // Detect keywords
+      const keywords = keyword_extractor.extract(
+        fullTranscriptionStr,
+        {
+          language: "english",
+          remove_digits: true,
+          return_changed_case:true,
+          remove_duplicates: false
+        }
+      )
+      this.mediaMetadata.currTopic = [...new Set(keywords)].slice(0, 3)
+
+      // Adjust user model
+
     }
   },
 };

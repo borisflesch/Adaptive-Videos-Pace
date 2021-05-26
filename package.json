@@ -12,6 +12,9 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/vue-fontawesome": "^2.0.2",
     "core-js": "^3.6.5",
+    "keyword-extractor": "^0.0.19",
+    "raw-loader": "^4.0.2",
+    "subtitle": "^4.1.0",
     "vue": "^2.6.11",
     "vue-plyr": "^7.0.0",
     "vue-sidebar-menu": "^4.7.4"
