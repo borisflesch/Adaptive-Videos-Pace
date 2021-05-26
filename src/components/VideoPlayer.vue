@@ -11,15 +11,15 @@
           <li>
             Current topics:
             <ul>
-              <li v-for="(topic, index) in mediaMetadata.currTopic" :key="index">{{ topic }}</li>
+              <li v-for="(topic, index) in mediaMetadata.currTopics" :key="index">{{ topic }}</li>
             </ul>
           </li>
         </ul>
         <h5>User's model</h5>
         <ul>
-          <li>(mathematics, algebra, 120)</li>
-          <li>(mathematics, limits, 110)</li>
-          <li>(physics, ..., 80)</li>
+          <li v-for="(entry, index) in userModel" :key="index">
+            {{ entry }}
+          </li>
         </ul>
       </div>
       <div class="player-wrapper">
@@ -64,7 +64,7 @@ export default {
         speed: 0.00,
         transcription: null,
         category: null,
-        currTopic: null,
+        currTopics: null,
         currSpeakerWpm: null,
       },
       intervalUpdateFct: null,
@@ -133,6 +133,20 @@ export default {
       this.mediaMetadata.speed = this.currentSpeed / (this.mediaMetadata.currSpeakerWpm ?? 160)
       this.$refs.plyr.player.speed = this.mediaMetadata.speed
     },
+    updateUserModel() {
+      this.mediaMetadata.currTopics.forEach(topic => {
+        const newEntry = [this.mediaMetadata.category, topic, this.currentSpeed]
+        console.log("new entry", newEntry)
+        const existingEntryIndex = this.userModel.findIndex(e => e[0] === newEntry[0] && e[1] === newEntry[1])
+        console.log("already existing?", existingEntryIndex)
+        console.log("---")
+        if (existingEntryIndex === -1) {
+          this.userModel.push(newEntry) // Add entry
+        } else {
+          this.userModel[existingEntryIndex] = newEntry // Update wpm
+        }
+      })
+    },
     processMetadataRefresh() {
       const margin = 0 // Margin of 3s
       const currentTime = this.$refs.plyr.player.currentTime * 1000 // s -> ms
@@ -167,10 +181,10 @@ export default {
           remove_duplicates: false
         }
       )
-      this.mediaMetadata.currTopic = [...new Set(keywords)].slice(0, 3)
+      this.mediaMetadata.currTopics = [...new Set(keywords)].slice(0, 3)
 
       // Adjust user model
-
+      this.updateUserModel()
     }
   },
 };
@@ -180,7 +194,7 @@ export default {
 .component-wrapper {
   display: flex;
   justify-content: center;
-  align-items: top;
+  align-items: flex-start;
 }
 .video-metadata {
   flex-basis: auto;
